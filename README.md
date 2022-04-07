@@ -19,11 +19,15 @@
 
 <h2 align="center">🛠️ Technologies and Tools I use</h2>
 
-<img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/react.png" alt="Luis's Profile" />
-
-
-
-
+<div align="center">
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/react.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
+</div>
 
 ✔️React
 ✔️React native
