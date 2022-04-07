@@ -6,9 +6,8 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." alt="Luis's Profile" />
 </div>
 
+<h2 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h2>
 
-
-<h2 align="center">👨🏻‍💻 About Me</h2>
 <p>
   👨‍💻 I describe myself as an Innovative programmer and entrepreneur in the development of applications to make the world a more accessible and dynamic place. Domain of software development and work with different data structures, as well as database management. Ease of teamwork and development.
 
@@ -17,36 +16,99 @@
   If you need professional, creative and responsive web design feel free to contact me, I am always with coffee in hand and ready to work! ☕.
 </p>
 
-<h2 align="center">🛠️ Technologies and Tools I use</h2>
+<h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
 
-<div align="center">
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/typescript.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/javascript.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/html.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/css.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
   <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/react.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
-</div>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/next.png" alt="Luis's Profile" />
+</p>
 
-✔️React
-✔️React native
-✔️HTML
-✔️JavaScript
-✔️CSS
-✔️MYSQL
-✔️Node
-✔️Photoshop
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/redux.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/apollo.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/webpack.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/jest.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/styled-components.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/pwa.png" alt="Luis's Profile" />
+</p>
 
-<h2 align="center">&#x1f4c8;🏻‍💻 GitHub Stats</h2>
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/nodejs.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/nestjs.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/graphql.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/express.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/jwt.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/typeorm.png" alt="Luis's Profile" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/sequelize.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/mongoose.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/mysql.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/postgresql.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/mongodb.png" alt="Luis's Profile" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/react-native.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/flutter.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/dart.png" alt="Luis's Profile" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/vscode.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/git.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/github.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/postman.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/figma.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/aws.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/google-cloud.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+</p>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/c++.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/c#.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+</p>
+
+<h2 align="center">📈 GitHub Stats 📈</h2>
 
 <div align="center">
   <a href="https://github.com/LuisD20">
@@ -61,7 +123,7 @@
   </a>
 </div>
 
-<h2 align="center">📘 My favorytes repositories</h2>
+<h2 align="center">📘 My favorites repositories 📘</h2>
 
 <p align="center">
   <a href="https://github.com/LuisD20">
@@ -79,7 +141,9 @@
   </a>
 </p>
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13102124&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+<div align="center">
+    <img align="center" src="https://github.com/LuisD20/LuisD20/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-                                                                                                                                          
+<!-- [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13102124&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah) -->
+
