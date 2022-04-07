@@ -19,6 +19,8 @@
 
 <h2 align="center">🛠️ Technologies and Tools I use</h2>
 
+<img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/react.png." alt="Luis's Profile" />
+
 ✔️React
 ✔️React native
 ✔️HTML
