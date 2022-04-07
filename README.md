@@ -1,3 +1,6 @@
+
+![Profile views](https://gpvc.arturio.dev/LuisDa20?v=3)
+
 💻 Web development is something everyone we need today, sooner or later, I can help you to build your professional web page, whit a friendly look and responsive design, also I can help you to make an app (Android/IOS) if you needed.
 
 👨‍💻 I describe myself as an Innovative programmer and entrepreneur in the development of applications to make the world a more accessible and dynamic place. Domain of software development and work with different data structures, as well as database management. Ease of teamwork and development.
@@ -31,11 +34,23 @@ If you need professional, creative and responsive web design feel free to contac
   </a>
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/LuisD20">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" alt="Repo Stats" />
+    <span>&nbsp;</span>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" alt="Repo Stats" />
   </a>
-</div>
+</p>
 
+<p align="center">
+  <a href="https://github.com/LuisD20">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" alt="Repo Stats" />
+    <span>&nbsp;</span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" alt="Repo Stats" />
+  </a>
+</p>
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13102124&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
                                                                                                                                           
