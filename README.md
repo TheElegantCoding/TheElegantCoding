@@ -19,7 +19,11 @@
 
 <h2 align="center">🛠️ Technologies and Tools I use</h2>
 
-<img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/react.png." alt="Luis's Profile" />
+<img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/react.png" alt="Luis's Profile" />
+
+
+
+
 
 ✔️React
 ✔️React native
@@ -45,7 +49,7 @@
   </a>
 </div>
 
-<h2 align="center">&#x1f4c8;🏻‍💻 GitHub Stats</h2>
+<h2 align="center">📘 My favorytes repositories</h2>
 
 <p align="center">
   <a href="https://github.com/LuisD20">
