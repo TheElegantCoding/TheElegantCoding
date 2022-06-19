@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/LuisDa20?v=3)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/wave.gif" width="30px">, I'm Luis Monsalve</h1>
+<h1 align="center">Hi, I'm Luis Monsalve</h1>
 
 <div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." alt="Luis's Profile" />
@@ -140,10 +140,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" alt="Repo Stats" />
   </a>
 </p>
-
-<div align="center">
-    <img align="center" src="https://github.com/LuisD20/LuisD20/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
-
-<!-- [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13102124&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah) -->
 
