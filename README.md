@@ -6,8 +6,6 @@
 
   ![](https://img.shields.io/github/last-commit/LuisD20/LuisD20?color=212121&logo=&logoColor=131821&style=for-the-badge)
 
-  ![](https://img.shields.io/github/stars/LuisD20/LuisD20?color=212121&logo=&logoColor=131821&style=for-the-badge)
-  
 </div>
 
 <div align="center">
@@ -24,6 +22,11 @@ music: all
 work: making the world better
 coffe: coding
 ```
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 
