@@ -22,7 +22,7 @@
   work: making the world better
   coffe: coding
 ```
-<br /><br /><br /><br />
+<br /><br />
 
 <h2 align="center">About Me</h2>
 
