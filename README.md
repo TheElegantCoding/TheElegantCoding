@@ -3,7 +3,7 @@
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
 <div align="center">
-  ![](https://img.shields.io/github/last-commit/iamverysimp1e/dots?color=212121&logo=&logoColor=131821&style=for-the-badge)
+  ![](https://img.shields.io/github/last-commit/LuisD20/LuisD20?color=212121&logo=&logoColor=131821&style=for-the-badge)
   ![](https://img.shields.io/github/stars/LuisD20/LuisD20?color=212121&logo=&logoColor=131821&style=for-the-badge)
 </div>
 
@@ -11,17 +11,16 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." alt="Luis's Profile" />
 </div>
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/code-gif.gif" width="360px"/>
+
+```
+name: Luis Monsalve
+age: 23
+education: Engineer
+music: all
+work: making the world better
+coffe: coding
+```
 
 <h2 align="center">About Me</h2>
 
@@ -155,16 +154,14 @@
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
 
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=LuisD20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisD20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&layout=compact) |
+
 <div align="center">
   <a href="https://github.com/LuisD20">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LuisD20&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="Luis's GitHub Stats" />
-  </a>
-</div>
-<span>&nbsp;</span>
-<div align="center">
-  <a href="https://github.com/LuisD20">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisD20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Luis's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisD20&layout=compact&langs_count=7&theme=github_dark" alt="Luis's GitHub Stats" />
   </a>
 </div>
 
