@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/LuisDa20?v=3)
+
 
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
@@ -46,68 +46,6 @@
   <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/next.png" alt="Luis's Profile" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/redux.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/apollo.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/webpack.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/jest.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/styled-components.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/pwa.png" alt="Luis's Profile" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/nodejs.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/nestjs.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/graphql.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/express.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/jwt.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/typeorm.png" alt="Luis's Profile" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/sequelize.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/mongoose.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/mysql.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/postgresql.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/mongodb.png" alt="Luis's Profile" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/react-native.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/flutter.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/dart.png" alt="Luis's Profile" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/aws.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/google-cloud.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-</p>
-
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/c++.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/c.png" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-</p>
-
 <h2 align="center">📈 GitHub Stats 📈</h2>
 
 <div align="center">
@@ -133,11 +71,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/LuisD20">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" alt="Repo Stats" />
-    <span>&nbsp;</span>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" alt="Repo Stats" />
-  </a>
-</p>
-
+![Profile views](https://gpvc.arturio.dev/LuisDa20?v=3)
