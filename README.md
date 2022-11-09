@@ -61,7 +61,7 @@
   <span>&nbsp;</span>
   <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/c++.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/c#.png" alt="Luis's Profile" />
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/csharp.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
   <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/windows terminal.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
