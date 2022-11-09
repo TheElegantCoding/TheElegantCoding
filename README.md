@@ -16,6 +16,8 @@
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/code-gif.gif" width="250px"/>
 </div>
 
+<br />
+
 ```yaml
   name: Luis Monsalve
   age: 23
