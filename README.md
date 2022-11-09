@@ -14,7 +14,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/code-gif.gif" width="220px"/>
 
-```json
+```yaml
   name: Luis Monsalve
   age: 23
   education: Engineer
