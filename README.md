@@ -14,15 +14,13 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/code-gif.gif" width="220px"/>
 
-```
-{
+```json
   name: Luis Monsalve
   age: 23
   education: Engineer
   music: all
   work: making the world better
   coffe: coding
-}
 ```
 
 <h2 align="center">About Me</h2>
