@@ -1,12 +1,12 @@
 ![Profile views](https://gpvc.arturio.dev/LuisDa20?v=3)
 
-<h1 align="center">Hi, I'm Luis Monsalve</h1>
+<h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
 <div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." alt="Luis's Profile" />
 </div>
 
-<h2 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h2>
+<h2 align="center">About Me</h2>
 
 <p>
   👨‍💻 I describe myself as an Innovative programmer and entrepreneur in the development of applications to make the world a more accessible and dynamic place. Domain of software development and work with different data structures, as well as database management. Ease of teamwork and development.
