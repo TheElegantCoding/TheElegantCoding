@@ -171,10 +171,14 @@
 
 <p align="center">
   <a href="https://github.com/LuisD20">
-    <img align="center" src="https://github.com/LuisD20/LuisD20" alt="Personal repo" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisD20&repo=LuisD20&theme=github_dark" alt="Personal repo" />
     <span>&nbsp;</span>
-    <img align="center" src="https://github.com/LuisD20/.dotfiles" alt="My dots files" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisD20&repo=.dotfiles&theme=github_dark" alt="My dotfiles" />
   </a>
 </p>
 
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
+</div>
