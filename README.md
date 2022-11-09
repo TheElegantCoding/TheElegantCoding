@@ -2,16 +2,15 @@
 
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
+![](https://img.shields.io/github/last-commit/iamverysimp1e/dots?color=212121&logo=&logoColor=131821&style=for-the-badge)
+![](https://img.shields.io/github/stars/iamverysimp1e/dots?color=212121&logo=&logoColor=131821&style=for-the-badge)
+[![](https://img.shields.io/badge/Neovim-0.8+-blueviolet.svg?style=for-the-badge&logo=Neovim&color=212121&logoColor=green)](https://github.com/neovim/neovim)
+
 <div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." alt="Luis's Profile" />
 </div>
 
 <h2 align="center">About Me</h2>
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git statusssssssssssssssssssssssssssssss     | git status    |
-| git diff     | git diff       | git diff      |
 
 <p>
   👨‍💻 I describe myself as an Innovative programmer and entrepreneur in the development of applications to make the world a more accessible and dynamic place. Domain of software development and work with different data structures, as well as database management. Ease of teamwork and development.
@@ -35,20 +34,26 @@
   <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/figma.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
   <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/typescript.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/javascript.png" alt="Luis's Profile" />
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/html.png" alt="Luis's Profile" />
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/css.png" alt="Luis's Profile" />
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/react.png" alt="Luis's Profile" />
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
   <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/next.png" alt="Luis's Profile" />
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
+  <span>&nbsp;</span>
+  <img align="center" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/photoshop.png" alt="Luis's Profile" />
 </p>
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
@@ -75,5 +80,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" alt="Repo Stats" />
   </a>
 </p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
 ![Profile views](https://gpvc.arturio.dev/LuisDa20?v=3)
