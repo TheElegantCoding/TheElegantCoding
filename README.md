@@ -11,10 +11,8 @@
 <div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." alt="Luis's Profile" />
 </div>
-<div align="center">
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/code-gif.gif" width="180px"/>
 
-  <div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/LuisD20/LuisD20/master/assets/code-gif.gif" width="200px"/>
 
     ```
       name: Luis Monsalve
@@ -24,8 +22,6 @@
       work: making the world better
       coffe: coding
     ```
-  </div>
-</div>
 
 <h2 align="center">About Me</h2>
 
