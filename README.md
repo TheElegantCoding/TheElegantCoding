@@ -75,7 +75,7 @@
   <span>&nbsp;</span>
   <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/latex.svg" alt="Luis's Profile" />
   <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/hmtl.svg" alt="Luis's Profile" />
+  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/html.svg" alt="Luis's Profile" />
   <span>&nbsp;</span>
   <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/css.svg" alt="Luis's Profile" />
   <span>&nbsp;</span>
