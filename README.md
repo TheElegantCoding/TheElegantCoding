@@ -23,17 +23,13 @@
 ```
 
 <div align="center">
-  <img alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark" />
+  <img align="center" alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark" />
   &nbsp;&nbsp;
-  <img alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/main/assets/gif/code_gif.gif" width="10px"/>
-</div>
-
-<div align="center">
-  <img align="center" alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark" />
-</div>
-
-<div align="center">
-
+  <img alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/main/assets/gif/code_gif.gif" width="340px"/>
 </div>
 
 <h2 align="center">About Me</h2>
@@ -48,7 +44,6 @@ If you need professional, creative and responsive web design feel free to contac
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/git.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
   <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/github.svg" alt="Luis's Profile" />
   <span>&nbsp;</span>
   <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/gitlab.svg" alt="Luis's Profile" />
