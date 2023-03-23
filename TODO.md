@@ -1,5 +1,5 @@
 # TODO
 
 [ ] Make dynamic .md with all te info
-[ ] Add more useful information
-[ ] Improve design
+[x] Add more useful information
+[x] Improve design

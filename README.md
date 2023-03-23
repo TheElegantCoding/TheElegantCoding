@@ -25,7 +25,7 @@
 <div align="center">
   <img align="center" alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark" />
   &nbsp;&nbsp;
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/gif/code-gif.gif" width="150px"/>
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/main/assets/gif/code_gif.gif" width="150px"/>
 </div>
 
 <div align="center">
