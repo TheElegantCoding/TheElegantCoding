@@ -1,13 +1,11 @@
 
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
-<div align="center">
-  ![Github](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
+![Github](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
 
-  ![Views](https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge)
 
-  ![Last Commit](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
-</div>
+![Last Commit](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
 
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark)
 
