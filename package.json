@@ -1,0 +1,22 @@
+{
+  "name": "luisskydev",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Github profile",
+  "license": "ISC",
+
+  "keywords": [],
+  "author": "Luis Monsalve",
+  "bugs": "https://github.com/LuisSkyDev/LuisSkyDev/issues",
+  "homepage": "https://github.com/LuisSkyDev/LuisSkyDev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisSkyDev/LuisSkyDev.git"
+  },
+  "scripts": {
+    "compress": "svgo -f ./assets/icons -o ./assets/icons"
+  },
+  "devDependencies": {
+    "svgo": "^3.0.2"
+  }
+}

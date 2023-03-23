@@ -29,7 +29,7 @@
 <div align="center">
   <img alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark" />
   &nbsp;&nbsp;
-  <img alt="GIF" src="./assets/gif/code_gif.gif" width="200px" style='border-radius: 20px'/>
+  <img alt="GIF" src="./assets/gif/code_gif.gif" width="200px" />
 </div>
 
 <h2 align="center">About Me</h2>
@@ -59,6 +59,7 @@ If you need professional, creative and responsive web design feel free to contac
   <img src="./assets/icons/dart.svg" alt="Luis's Profile" />
   <img src="./assets/icons/c++.svg" alt="Luis's Profile" />
   <img src="./assets/icons/csharp.svg" alt="Luis's Profile" />
+  <img src="./assets/icons/lua.svg" alt="Luis's Profile" />
   <img src="./assets/icons/latex.svg" alt="Luis's Profile" />
   <img src="./assets/icons/html.svg" alt="Luis's Profile" />
   <img src="./assets/icons/css.svg" alt="Luis's Profile" />
