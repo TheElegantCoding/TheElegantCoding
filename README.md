@@ -2,10 +2,18 @@
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
 <div align="center">
+  ![Github](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
 
-  ![](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
+  ![Views](https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge)
 
+  ![Last Commit](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
 </div>
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark)
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark)
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark)
 
 <div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." alt="Luis's Profile" />
