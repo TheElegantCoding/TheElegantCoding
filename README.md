@@ -29,7 +29,7 @@
 <div align="center">
   <img alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark" />
   &nbsp;&nbsp;
-  <img alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/main/assets/gif/code_gif.gif" width="240px"/>
+  <img alt="GIF" src="./assets/gif/code_gif.gif" width="200px" style='border-radius: 20px'/>
 </div>
 
 <h2 align="center">About Me</h2>
@@ -43,149 +43,119 @@ If you need professional, creative and responsive web design feel free to contac
 <h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/git.svg" alt="Luis's Profile" />
-  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/github.svg" alt="Luis's Profile" />
-  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/gitlab.svg" alt="Luis's Profile" />
-  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/vscode.svg" alt="Luis's Profile" />
-  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/visual_studio.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/notion.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/lighthouse.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/postman.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/altair.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/figma.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/photoshop.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/typescript.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/javascript.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/dart.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/c++.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/csharp.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/latex.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/html.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/css.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/sass.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/styled_components.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/autoprefixer.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/cssnano.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/normalize.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/pug.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/ejs.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/svgo.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/pwa.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/npm.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/yarn.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/pnpm.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/eslint.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/stylelint.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/prettier.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/editorconfig.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/husky.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/markdown.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/vite.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/webpack.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/babel.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/node.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/nodemon.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/react.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/solid.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/next.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/nest.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/express.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/fastify.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/react_native.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/expo.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/flutter.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/windows.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/mac.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/linux.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/android.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/windows_terminal.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/redux.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/apollo.svg" alt="Luis's Profile" />
-    <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/graphql.svg" alt="Luis's Profile" />
-    <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/apollo.svg" alt="Luis's Profile" />
-    <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/mercurius.svg" alt="Luis's Profile" />
-    <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/postgresql.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/mysql.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/sqlite.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/postgresql.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/mongo.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/prisma.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/typeorm.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/jwt.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/passport.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/google_cloud.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/aws.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/amplify.svg" alt="Luis's Profile" />
-      <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/s3.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/git.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/github.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/gitlab.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/vscode.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/visual_studio.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/notion.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/lighthouse.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/postman.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/altair.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/figma.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/photoshop.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/typescript.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/javascript.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/dart.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/c++.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/csharp.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/latex.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/html.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/css.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/sass.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/styled_components.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/autoprefixer.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/cssnano.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/normalize.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/pug.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/ejs.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/svgo.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/pwa.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/npm.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/yarn.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/pnpm.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/eslint.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/stylelint.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/prettier.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/editorconfig.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/husky.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/markdown.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/vite.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/webpack.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/babel.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/node.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/nodemon.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/react.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/solid.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/next.svg" alt="Luis's Profile" />
+  
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/nest.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/express.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/fastify.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/react_native.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/expo.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/flutter.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/windows.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/mac.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/linux.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/android.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/windows_terminal.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/redux.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/apollo.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/graphql.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/apollo.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/mercurius.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/postgresql.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/mysql.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/sqlite.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/postgresql.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/mongo.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/prisma.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/typeorm.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/jwt.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/passport.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/google_cloud.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/aws.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/amplify.svg" alt="Luis's Profile" />
+  <img src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/s3.svg" alt="Luis's Profile" />
 </p>
 
 <h2 align="center">📘 My favorites repositories 📘</h2>
@@ -193,7 +163,7 @@ If you need professional, creative and responsive web design feel free to contac
 <p align="center">
   <a href="https://github.com/LuisSkyDev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisSkyDev&repo=LuisSkyDev&theme=github_dark" alt="Personal repo" />
-    <span>&nbsp;</span>
+
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisSkyDev&repo=.dotfiles&theme=github_dark" alt="My dotfiles" />
   </a>
 </p>
