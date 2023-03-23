@@ -2,10 +2,10 @@
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
 <div align="center">
-  <img alt="Last Commit" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-
+  <img alt="Last Commit" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /><br />
+  &nbsp;
   <img alt="Views" src="https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge" />
-
+  &nbsp;
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge" />
 </div>
 
