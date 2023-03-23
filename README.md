@@ -2,15 +2,15 @@
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
 <div align="center">
-  <img alt="Last Commit" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /><br />
-  &nbsp;
+  <img alt="Last Commit" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+  &nbsp;&nbsp;
   <img alt="Views" src="https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge" />
 </div>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur.)](https://git.io/typing-svg)
+  <img alt="Typing description" src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." />
 </div>
 
 ```yaml
@@ -23,7 +23,7 @@
 ```
 
 <div align="center">
-  ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark)
+  <img align="center" alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark" />
 </div>
 
 <div align="center">
@@ -194,14 +194,6 @@ If you need professional, creative and responsive web design feel free to contac
   <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/s3.svg" alt="Luis's Profile" />
 </p>
 
-<h2 align="center">📈 GitHub Stats 📈</h2>
-
-### Quick stats about me
-
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=LuisSkyDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSkyDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&layout=compact) |
-
 <h2 align="center">📘 My favorites repositories 📘</h2>
 
 <p align="center">
@@ -213,7 +205,5 @@ If you need professional, creative and responsive web design feel free to contac
 </p>
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
-
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quote" />
 </div>
