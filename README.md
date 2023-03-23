@@ -29,7 +29,7 @@
 <div align="center">
   <img alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark" />
   &nbsp;&nbsp;
-  <img alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/main/assets/gif/code_gif.gif" width="340px"/>
+  <img alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/main/assets/gif/code_gif.gif" width="240px"/>
 </div>
 
 <h2 align="center">About Me</h2>
@@ -43,14 +43,11 @@ If you need professional, creative and responsive web design feel free to contac
 <h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/git.svg" alt="Luis's Profile" />
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/github.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/gitlab.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/vscode.svg" alt="Luis's Profile" />
-  <span>&nbsp;</span>
-  <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/visual_studio.svg" alt="Luis's Profile" />
+  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/git.svg" alt="Luis's Profile" />
+  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/github.svg" alt="Luis's Profile" />
+  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/gitlab.svg" alt="Luis's Profile" />
+  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/vscode.svg" alt="Luis's Profile" />
+  <img  src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/visual_studio.svg" alt="Luis's Profile" />
   <span>&nbsp;</span>
   <img align="center" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/icons/notion.svg" alt="Luis's Profile" />
   <span>&nbsp;</span>
