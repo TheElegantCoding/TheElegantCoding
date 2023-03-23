@@ -2,7 +2,7 @@
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
 <div align="center">
-  ![Views](https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge)
+  <img align="center" alt="Views" src="https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge" />
 
   ![Last Commit](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
 </div>
