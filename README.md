@@ -24,14 +24,16 @@
 
 <div align="center">
   <img align="center" alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark" />
+  &nbsp;&nbsp;
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/gif/code-gif.gif" width="150px"/>
 </div>
 
 <div align="center">
-  ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark)
+  <img align="center" alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/gif/code-gif.gif" width="250px"/>
+
 </div>
 
 <h2 align="center">About Me</h2>
