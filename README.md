@@ -1,20 +1,14 @@
 
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
-![Github](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
+<div align="center">
+  ![Views](https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge)
 
-![Views](https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge)
-
-![Last Commit](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
-
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark)
-
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark)
-
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark)
+  ![Last Commit](https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge)
+</div>
 
 <div align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." alt="Luis's Profile" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur.)](https://git.io/typing-svg)
 </div>
 
 ```yaml
@@ -26,23 +20,25 @@
   coffe: coding
 ```
 
-<br />
+<div align="center">
+  ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark)
+</div>
+
+<div align="center">
+  ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark)
+</div>
 
 <div align="center">
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/LuisSkyDev/LuisSkyDev/master/assets/gif/code-gif.gif" width="250px"/>
 </div>
 
-<br />
-
 <h2 align="center">About Me</h2>
 
-<p>
-  👨‍💻 I describe myself as an Innovative programmer and entrepreneur in the development of applications to make the world a more accessible and dynamic place. Domain of software development and work with different data structures, as well as database management. Ease of teamwork and development.
+👨‍💻 I describe myself as an Innovative programmer and entrepreneur in the development of applications to make the world a more accessible and dynamic place. Domain of software development and work with different data structures, as well as database management. Ease of teamwork and development.
 
-  💻 Web development is something everyone we need today, sooner or later, I can help you to build your professional web page, whit a friendly look and responsive design, also I can help you to make an app (Android/IOS) if you needed.
+💻 Web development is something everyone we need today, sooner or later, I can help you to build your professional web page, whit a friendly look and responsive design, also I can help you to make an app (Android/IOS) if you needed.
 
-  If you need professional, creative and responsive web design feel free to contact me, I am always with coffee in hand and ready to work! ☕.
-</p>
+If you need professional, creative and responsive web design feel free to contact me, I am always with coffee in hand and ready to work! ☕.
 
 <h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
 
@@ -203,12 +199,6 @@
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=LuisSkyDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSkyDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&layout=compact) |
-
-<div align="center">
-  <a href="https://github.com/LuisSkyDev">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LuisSkyDev&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="Luis's GitHub Stats" />
-  </a>
-</div>
 
 <h2 align="center">📘 My favorites repositories 📘</h2>
 
