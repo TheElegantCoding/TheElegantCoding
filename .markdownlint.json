@@ -100,12 +100,7 @@
   },
   "first-line-h1": false,
   "no-empty-links": true,
-  "required-headers": 
-  {
-    "headers": [],
-    "headings": [],
-    "match_case": false
-  },
+  "required-headers": false,
   "proper-names": 
   {
     "code_blocks": true,
