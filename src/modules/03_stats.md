@@ -14,7 +14,7 @@
   &nbsp;&nbsp;
   <img 
     alt="Code gif" 
-    src="../global/assets/gif/code_gif.gif" 
+    src="./src/global/assets/gif/code_gif.gif" 
     width="200px" 
   />
 </div>
