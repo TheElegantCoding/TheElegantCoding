@@ -1,17 +1,33 @@
-
 <h1 align="center">👨🏻‍💻 Luis's Profile 👨🏻‍💻</h1>
 
 <div align="center">
-  <img alt="Last Commit" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img 
+    alt="Repository size" 
+    src="https://img.shields.io/github/repo-size/LuisCoderDev/LuisCoderDev?style=for-the-badge" 
+  />
   &nbsp;&nbsp;
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=LuisSkyDev&style=for-the-badge" />
+  <img 
+    alt="Code size" 
+    src="https://img.shields.io/github/languages/code-size/LuisCoderDev/LuisCoderDev?style=for-the-badge" 
+  />
   &nbsp;&nbsp;
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/LuisSkyDev/LuisSkyDev?color=212121&logo=&logoColor=131821&style=for-the-badge" />
+  <img 
+    alt="Profile views" 
+    src="https://komarev.com/ghpvc/?username=LuisCoderDev&style=for-the-badge" 
+  />
+  &nbsp;&nbsp;
+  <img 
+    alt="Last Commit" 
+    src="https://img.shields.io/github/last-commit/LuisCoderDev/LuisCoderDev?color=212121&logo=&logoColor=131821&style=for-the-badge" 
+  />
 </div>
 
 <div align="center">
-  <img alt="Typing description" src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." />
-</div>
+  <img 
+    alt="Typing description" 
+    src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." 
+  />
+</div><br /><h2 align="center">About Me</h2>
 
 ```yaml
   name: Luis Monsalve
@@ -22,30 +38,35 @@
   coffe: coding
 ```
 
-<div align="center">
-  <img align="center" alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSkyDev&theme=github_dark" />
-</div>
-<br />
-<div align="center">
-  <img alt="Github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisSkyDev&theme=github_dark" />
-  &nbsp;&nbsp;
-  <img alt="GIF" src="./assets/gif/code_gif.gif" width="200px" />
-</div>
-
-<h2 align="center">About Me</h2>
-
 👨‍💻 I describe myself as an Innovative programmer and entrepreneur in the development of applications to make the world a more accessible and dynamic place. Domain of software development and work with different data structures, as well as database management. Ease of teamwork and development.
 
 💻 Web development is something everyone we need today, sooner or later, I can help you to build your professional web page, whit a friendly look and responsive design, also I can help you to make an app (Android/IOS) if you needed.
 
-If you need professional, creative and responsive web design feel free to contact me, I am always with coffee in hand and ready to work! ☕.
-
-<h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
+If you need professional, creative and responsive web design feel free to contact me, I am always with coffee in hand and ready to work! ☕.<br /><div align="center">
+  <img 
+    align="center" 
+    alt="Github stats" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisCoderDev&theme=github_dark" 
+  />
+</div>
+<br />
+<div align="center">
+  <img 
+    alt="Github stats" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisCoderDev&theme=github_dark" 
+  />
+  &nbsp;&nbsp;
+  <img 
+    alt="Code gif" 
+    src="./assets/gif/code_gif.gif" 
+    width="200px" 
+  />
+</div><br /><h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
 
 <p align="center">
-  <img src="./assets/icons/git.svg" alt="Luis's Profile" />
-  <img src="./assets/icons/github.svg" alt="Luis's Profile" />
-  <img src="./assets/icons/gitlab.svg" alt="Luis's Profile" />
+  <img src="./assets/icons/git.svg" alt="Git" />
+  <img src="./assets/icons/github.svg" alt="Github" />
+  <img src="./assets/icons/gitlab.svg" alt="gitlab" />
   <img src="./assets/icons/vscode.svg" alt="Luis's Profile" />
   <img src="./assets/icons/visual_studio.svg" alt="Luis's Profile" />
   <img src="./assets/icons/notion.svg" alt="Luis's Profile" />
@@ -118,19 +139,26 @@ If you need professional, creative and responsive web design feel free to contac
   <img src="./assets/icons/aws.svg" alt="Luis's Profile" />
   <img src="./assets/icons/amplify.svg" alt="Luis's Profile" />
   <img src="./assets/icons/s3.svg" alt="Luis's Profile" />
-</p>
-
-<h2 align="center">📘 My favorites repositories 📘</h2>
+</p><br /><h2 align="center">📘 My favorites repositories 📘</h2>
 
 <p align="center">
-  <a href="https://github.com/LuisSkyDev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisSkyDev&repo=LuisSkyDev&theme=github_dark" alt="Personal repo" />
+  <a href="https://github.com/LuisCoderDev">
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuisCoderDev&repo=LuisCoderDev&theme=github_dark"
+      alt="Personal repo" 
+    />
   </a>
-  <a href="https://github.com/LuisSkyDev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisSkyDev&repo=.dotfiles&theme=github_dark" alt="My dotfiles" />
+  <a href="https://github.com/LuisCoderDev">
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LuisCoderDev&repo=.dotfiles&theme=github_dark" alt="My dotfiles" 
+    />
   </a>
-</p>
-
-<div align="center">
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quote" />
+</p><br /><div align="center">
+  <img 
+    align="center" 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"
+    alt="Quote" 
+  />
 </div>

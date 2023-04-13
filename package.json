@@ -1,20 +1,38 @@
 {
-  "name": "luisskydev",
+  "name": "luis-profile",
   "version": "1.0.0",
   "private": true,
   "description": "Github profile",
   "license": "ISC",
-
-  "keywords": [],
   "author": "Luis Monsalve",
-  "bugs": "https://github.com/LuisSkyDev/LuisSkyDev/issues",
-  "homepage": "https://github.com/LuisSkyDev/LuisSkyDev",
+  "bugs": "https://github.com/LuisCoderDev/LuisCoderDev/issues",
+  "homepage": "https://github.com/LuisCoderDev/LuisCoderDev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LuisSkyDev/LuisSkyDev.git"
+    "url": "git+https://github.com/LuisCoderDev/LuisCoderDev.git"
+  },
+  "keywords": [
+    "github",
+    "portfolio",
+    "profile",
+    "markdown",
+    "readme",
+    "github-profile-readme",
+    "readme-profile",
+    "readme-template",
+    "typescript",
+    "clean-architecture"
+  ],
+  "engines": {
+    "node": "^14.18.0 || >=16.0.0",
+    "npm": "please-use-pnpm",
+    "yarn": "please-use-pnpm",
+    "pnpm": ">=7.14.0"
   },
   "scripts": {
-    "compress": "svgo -f ./assets/icons -o ./assets/icons"
+    "preinstall": "npx only-allow pnpm",
+    "compress": "npx svgo -f ./src/global/assets/icons -o ./src/global/assets/icons",
+    "build": "pnpm compress & node ./src/index.js"
   },
   "devDependencies": {
     "svgo": "^3.0.2"
