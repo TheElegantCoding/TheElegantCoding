@@ -1,16 +1,10 @@
 {
   "name": "luis-profile",
+  "description": "Github profile",
   "version": "1.0.0",
   "private": true,
-  "description": "Github profile",
   "license": "ISC",
   "author": "Luis Monsalve",
-  "bugs": "https://github.com/LuisCoderDev/LuisCoderDev/issues",
-  "homepage": "https://github.com/LuisCoderDev/LuisCoderDev",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LuisCoderDev/LuisCoderDev.git"
-  },
   "keywords": [
     "github",
     "portfolio",
@@ -23,6 +17,12 @@
     "typescript",
     "clean-architecture"
   ],
+  "bugs": "https://github.com/AethesticCoder/AethesticCoder/issues",
+  "homepage": "https://github.com/AethesticCoder/AethesticCoder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AethesticCoder/AethesticCoder.git"
+  },
   "engines": {
     "node": "^14.18.0 || >=16.0.0",
     "npm": "please-use-pnpm",
@@ -31,6 +31,7 @@
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
+    "postinstall": "git config core.hooksPath ./script/git_hook",
     "compress": "npx svgo -f ./src/global/assets/icons -o ./src/global/assets/icons",
     "build": "pnpm compress & node ./src/index.js"
   },

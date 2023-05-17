@@ -3,22 +3,22 @@
 <div align="center">
   <img 
     alt="Repository size" 
-    src="https://img.shields.io/github/repo-size/LuisCoderDev/LuisCoderDev?style=for-the-badge" 
+    src="https://img.shields.io/github/repo-size/AethesticCoder/AethesticCoder?style=for-the-badge" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Code size" 
-    src="https://img.shields.io/github/languages/code-size/LuisCoderDev/LuisCoderDev?style=for-the-badge" 
+    src="https://img.shields.io/github/languages/code-size/AethesticCoder/AethesticCoder?style=for-the-badge" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Profile views" 
-    src="https://komarev.com/ghpvc/?username=LuisCoderDev&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=AethesticCoder&style=for-the-badge" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Last Commit" 
-    src="https://img.shields.io/github/last-commit/LuisCoderDev/LuisCoderDev?color=212121&logo=&logoColor=131821&style=for-the-badge" 
+    src="https://img.shields.io/github/last-commit/AethesticCoder/AethesticCoder?color=212121&logo=&logoColor=131821&style=for-the-badge" 
   />
 </div>
 

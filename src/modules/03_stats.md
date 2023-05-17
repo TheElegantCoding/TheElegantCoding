@@ -2,14 +2,14 @@
   <img 
     align="center" 
     alt="Github stats" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisCoderDev&theme=github_dark" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AethesticCoder&theme=github_dark" 
   />
 </div>
 <br />
 <div align="center">
   <img 
     alt="Github stats" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisCoderDev&theme=github_dark" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AethesticCoder&theme=github_dark" 
   />
   &nbsp;&nbsp;
   <img 
