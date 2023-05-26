@@ -3,22 +3,22 @@
 <div align="center">
   <img 
     alt="Repository size" 
-    src="https://img.shields.io/github/repo-size/AethesticCoder/AethesticCoder?style=for-the-badge" 
+    src="https://img.shields.io/github/repo-size/AesthetiCoder/AesthetiCoder?style=for-the-badge" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Code size" 
-    src="https://img.shields.io/github/languages/code-size/AethesticCoder/AethesticCoder?style=for-the-badge" 
+    src="https://img.shields.io/github/languages/code-size/AesthetiCoder/AesthetiCoder?style=for-the-badge" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Profile views" 
-    src="https://komarev.com/ghpvc/?username=AethesticCoder&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=AesthetiCoder&style=for-the-badge" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Last Commit" 
-    src="https://img.shields.io/github/last-commit/AethesticCoder/AethesticCoder?color=212121&logo=&logoColor=131821&style=for-the-badge" 
+    src="https://img.shields.io/github/last-commit/AesthetiCoder/AesthetiCoder?color=212121&logo=&logoColor=131821&style=for-the-badge" 
   />
 </div>
 
@@ -38,6 +38,11 @@
   coffe: coding
 ```
 
+👨‍💻 Professional Software Engineer <br />
+💻 Fullstack Developer <br />
+🎨 User Interface Designer <br />
+📝 Tech Posts Writer <br />
+
 👨‍💻 I describe myself as an Innovative programmer and entrepreneur in the development of applications to make the world a more accessible and dynamic place. Domain of software development and work with different data structures, as well as database management. Ease of teamwork and development.
 
 💻 Web development is something everyone we need today, sooner or later, I can help you to build your professional web page, whit a friendly look and responsive design, also I can help you to make an app (Android/IOS) if you needed.
@@ -46,14 +51,14 @@ If you need professional, creative and responsive web design feel free to contac
   <img 
     align="center" 
     alt="Github stats" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AethesticCoder&theme=github_dark" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AesthetiCoder&theme=github_dark" 
   />
 </div>
 <br />
 <div align="center">
   <img 
     alt="Github stats" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AethesticCoder&theme=github_dark" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AesthetiCoder&theme=github_dark" 
   />
   &nbsp;&nbsp;
   <img 
@@ -143,17 +148,17 @@ If you need professional, creative and responsive web design feel free to contac
 </p><br /><h2 align="center">📘 My favorites repositories 📘</h2>
 
 <p align="center">
-  <a href="https://github.com/AethesticCoder">
+  <a href="https://github.com/AesthetiCoder">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AethesticCoder&repo=AethesticCoder&theme=github_dark"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AesthetiCoder&repo=AesthetiCoder&theme=github_dark"
       alt="Personal repo" 
     />
   </a>
-  <a href="https://github.com/AethesticCoder">
+  <a href="https://github.com/AesthetiCoder">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AethesticCoder&repo=.dotfiles&theme=github_dark" alt="My dotfiles" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AesthetiCoder&repo=.dotfiles&theme=github_dark" alt="My dotfiles" 
     />
   </a>
 </p><br /><div align="center">

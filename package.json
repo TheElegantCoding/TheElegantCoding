@@ -17,11 +17,11 @@
     "typescript",
     "clean-architecture"
   ],
-  "bugs": "https://github.com/AethesticCoder/AethesticCoder/issues",
-  "homepage": "https://github.com/AethesticCoder/AethesticCoder",
+  "bugs": "https://github.com/AesthetiCoder/AesthetiCoder/issues",
+  "homepage": "https://github.com/AesthetiCoder/AesthetiCoder",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AethesticCoder/AethesticCoder.git"
+    "url": "git+https://github.com/AesthetiCoder/AesthetiCoder.git"
   },
   "engines": {
     "node": "^14.18.0 || >=16.0.0",
