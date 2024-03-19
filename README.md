@@ -13,12 +13,12 @@
   &nbsp;&nbsp;
   <img 
     alt="Profile views" 
-    src="https://komarev.com/ghpvc/?username=AesthetiCoder&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=TheElegantCoding&style=for-the-badge" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Last Commit" 
-    src="https://img.shields.io/github/last-commit/AesthetiCoder/AesthetiCoder?color=212121&logo=&logoColor=131821&style=for-the-badge" 
+    src="https://img.shields.io/github/last-commit/TheElegantCoding/TheElegantCoding?color=212121&logo=&logoColor=131821&style=for-the-badge" 
   />
 </div>
 
