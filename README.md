@@ -145,7 +145,7 @@ If you need professional, creative and responsive web design feel free to contac
   <img src="./src/global/assets/icons/aws.svg" alt="aws" />
   <img src="./src/global/assets/icons/amplify.svg" alt="amplify" />
   <img src="./src/global/assets/icons/s3.svg" alt="s3" />
-</p><br /><h2 align="center">📘 My favorites repositories 📘</h2>
+</p>
 
 <div align="center">
   <img 
