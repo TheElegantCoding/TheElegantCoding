@@ -3,12 +3,12 @@
 <div align="center">
   <img 
     alt="Repository size" 
-    src="https://img.shields.io/github/repo-size/AesthetiCoder/AesthetiCoder?style=for-the-badge" 
+    src="https://img.shields.io/github/repo-size/TheElegantCoding/TheElegantCoding?style=for-the-badge" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Code size" 
-    src="https://img.shields.io/github/languages/code-size/AesthetiCoder/AesthetiCoder?style=for-the-badge" 
+    src="https://img.shields.io/github/languages/code-size/TheElegantCoding/AesthetiCoder?style=for-the-badge" 
   />
   &nbsp;&nbsp;
   <img 
@@ -51,14 +51,14 @@ If you need professional, creative and responsive web design feel free to contac
   <img 
     align="center" 
     alt="Github stats" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AesthetiCoder&theme=github_dark" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheElegantCoding&theme=github_dark" 
   />
 </div>
 <br />
 <div align="center">
   <img 
     alt="Github stats" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AesthetiCoder&theme=github_dark" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheElegantCoding&theme=github_dark" 
   />
   &nbsp;&nbsp;
   <img 
