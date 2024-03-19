@@ -147,21 +147,7 @@ If you need professional, creative and responsive web design feel free to contac
   <img src="./src/global/assets/icons/s3.svg" alt="s3" />
 </p><br /><h2 align="center">📘 My favorites repositories 📘</h2>
 
-<p align="center">
-  <a href="https://github.com/AesthetiCoder">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AesthetiCoder&repo=AesthetiCoder&theme=github_dark"
-      alt="Personal repo" 
-    />
-  </a>
-  <a href="https://github.com/AesthetiCoder">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AesthetiCoder&repo=.dotfiles&theme=github_dark" alt="My dotfiles" 
-    />
-  </a>
-</p><br /><div align="center">
+<div align="center">
   <img 
     align="center" 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"
