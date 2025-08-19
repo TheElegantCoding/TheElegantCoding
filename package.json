@@ -32,7 +32,7 @@
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "postinstall": "git config core.hooksPath ./script/git_hook",
-    "compress": "npx svgo -f ./src/global/assets/icons -o ./src/global/assets/icons",
+    "compress": "npx svgo -f ./src/global/asset/icons -o ./src/global/asset/icons",
     "build": "pnpm compress & node ./src/index.js"
   },
   "devDependencies": {
