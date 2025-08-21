@@ -1,16 +1,31 @@
-<img src="./src/global/asset/illustration/wave_header.svg" alt="wave" width="100%" align="center"/>
+<img 
+  src="./src/global/asset/illustration/wave_header.svg" 
+  alt="wave" 
+  width="100%" 
+  align="center"
+/>
 
-<h1 align="center">Luis's Profile</h1>
+<h1 align="center">🚀 Luis's Profile</h1>
 
 <br />
-<img src="./src/global/asset/illustration/divider.svg" alt="divider" width="100%" align="center"/>
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+/>
 
 <pre align="center">
   <a href="#instalation">📦 SETUP</a> • <a href="#configuration">⚙️ CONFIGURATION</a> • <a href="#features">️️️🛰️ FEATURES</a>
 </pre>
 
-<img src="./src/global/asset/illustration/divider.svg" alt="divider" width="100%" align="center"/>
-
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+/>
 
 <!-- 
 
@@ -28,22 +43,7 @@
   />
 </div>
 
--->
-
-<br /><h2 align="center">About Me</h2>
-
-```yaml
-                                                   TheElegantCoding@github.profile
-  ┌─────────────────────────────────────────────────┐
-  ├─ name: Luis Monsalve
-  ├─ age: 23
-  ├─ education: system engineer
-  ├─ work: making the world better
-  ├───────────────── tes ──────────────────────────────┤
-  ├─ music: all
-  ├─ coffe: coding
-  └─────────────────────────────────────────────────┘
-```
+--><br /><h1 align="center">About me</h1>
 
 <img 
   src="./src/global/asset/image/terminal.png"
@@ -51,17 +51,49 @@
   width="100%" 
 />
 
+👨‍💻 Professional Software Engineer 💻
 
-👨‍💻 Professional Software Engineer <br />
-💻 Fullstack Developer <br />
-🎨 User Interface Designer <br />
-📝 Tech Posts Writer <br />
+I am an innovative programmer and entrepreneur, specializing in creating accessible and dynamic web 
+applications. I am a Fullstack Developer with expertise in different data structures, database 
+management, and User Interface Design 🎨. I have an ease for teamwork and am always ready to work! ☕.<br />
+<table border align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=TheElegantCoding&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true" 
+        alt="Github stats"
+        width="48.7%"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheElegantCoding&layout=compact&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true&langs_count=8" 
+        alt="Github donut"  
+        width="48.7%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=TheElegantCoding&bg_color=151B23&theme=github-compact&area_color=3059E4&title_color=151B23&radius=16&area=true&line=3059E4&point=F3F4F6" 
+        alt="Github stats"  
+        width="48.7%"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheElegantCoding&layout=compact&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true&langs_count=8" 
+        alt="Github donut"  
+        width="48.7%"
+      />
+    </td>
+  </tr>
+</table>
 
-👨‍💻 I describe myself as an Innovative programmer and entrepreneur in the development of applications to make the world a more accessible and dynamic place. Domain of software development and work with different data structures, as well as database management. Ease of teamwork and development.
+<!--
 
-💻 Web development is something everyone we need today, sooner or later, I can help you to build your professional web page, whit a friendly look and responsive design, also I can help you to make an app (Android/IOS) if you needed.
-
-If you need professional, creative and responsive web design feel free to contact me, I am always with coffee in hand and ready to work! ☕.<br /><div align="center">
+<div align="center">
   <img 
     align="center" 
     alt="Github stats" 
@@ -80,7 +112,9 @@ If you need professional, creative and responsive web design feel free to contac
     src="./src/global/asset/gif/code_gif.gif" 
     width="200px" 
   />
-</div><br /><h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
+</div>
+
+ --><br /><h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
 
 <p align="center">
   <img src="./src/global/asset/icons/git.svg" alt="git" />
