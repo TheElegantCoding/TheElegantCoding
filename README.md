@@ -33,26 +33,24 @@
 <br /><h2 align="center">About Me</h2>
 
 ```yaml
+                                                   TheElegantCoding@github.profile
   ┌─────────────────────────────────────────────────┐
   ├─ name: Luis Monsalve
   ├─ age: 23
-  ├─ education: engineer
+  ├─ education: system engineer
+  ├─ work: making the world better
   ├───────────────── tes ──────────────────────────────┤
   ├─ music: all
-  ├─ work: making the world better
   ├─ coffe: coding
   └─────────────────────────────────────────────────┘
 ```
-$\hspace{3cm}\textbf{TheElegantCoding@github.profile}$
 
-$\color{#3059E4}\textbf{╭───────────────────────────────────────╮}$<br />
-$\color{#3059E4}\textbf{│}\hspace{9.9cm}\color{#3059E4}\textbf{│}$<br />
-$\color{#3059E4}\textbf{├─}\textbf{ Name: } \text{Luis Monsalve}\hspace{6.15cm}\color{#3059E4}\textbf{│}$<br />
-$\color{#3059E4}\textbf{├─}\textbf{ Uptime: } \text{25 years}\hspace{6.8cm}\color{#3059E4}\textbf{│}$<br />
-$\color{#3059E4}\textbf{│}\hspace{9.9cm}\color{#3059E4}\textbf{│}$<br />
-$\color{#3059E4}\textbf{├───────────────── tes ────────────────────┤}$<br />
-$\color{#3059E4}\textbf{│}\hspace{9.9cm}\color{#3059E4}\textbf{│}$<br />
-$\color{#3059E4}\textbf{╰───────────────────────────────────────╯}$
+<img 
+  src="./src/global/image/terminal.png"
+  align="center"
+  width="100%" 
+/>
+
 
 👨‍💻 Professional Software Engineer <br />
 💻 Fullstack Developer <br />
