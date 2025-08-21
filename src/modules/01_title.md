@@ -1,15 +1,15 @@
-<img src="./../global/asset/illustration/wave_header.svg" alt="wave" width="100%" align="center"/>
+<img src="./src/global/asset/illustration/wave_header.svg" alt="wave" width="100%" align="center"/>
 
 <h1 align="center">Luis's Profile</h1>
 
 <br />
-<img src="./../global/asset/illustration/divider.svg" alt="divider" width="100%" align="center"/>
+<img src="./src/global/asset/illustration/divider.svg" alt="divider" width="100%" align="center"/>
 
 <pre align="center">
   <a href="#instalation">📦 SETUP</a> • <a href="#configuration">⚙️ CONFIGURATION</a> • <a href="#features">️️️🛰️ FEATURES</a>
 </pre>
 
-<img src="./../global/asset/illustration/divider.svg" alt="divider" width="100%" align="center"/>
+<img src="./src/global/asset/illustration/divider.svg" alt="divider" width="100%" align="center"/>
 
 
 <!-- 

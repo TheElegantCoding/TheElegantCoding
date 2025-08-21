@@ -14,7 +14,7 @@
 ```
 
 <img 
-  src="./src/global/image/terminal.png"
+  src="./src/global/asset/image/terminal.png"
   align="center"
   width="100%" 
 />
