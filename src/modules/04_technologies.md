@@ -3,47 +3,47 @@
 <p align="center">
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="120px"
+    width="90px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="120px"
+    width="90px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="120px"
+    width="90px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="120px"
+    width="90px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="120px"
+    width="90px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="120px"
+    width="90px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="120px"
+    width="90px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="120px"
+    width="90px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="120px"
+    width="90px"
     alt="typescript"   
   />
 </p>
