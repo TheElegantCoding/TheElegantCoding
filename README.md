@@ -97,47 +97,47 @@ management, and User Interface Design 🎨. I have an ease for teamwork and am a
 <p align="center">
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="91px"
+    width="128px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="91px"
+    width="128px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="91px"
+    width="128px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="91px"
+    width="128px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="91px"
+    width="128px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="91px"
+    width="128px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="91px"
+    width="128px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="91px"
+    width="128px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="91px"
+    width="128px"
     alt="typescript"   
   />
 </p><br /><h2 align="center">📘 My favorites repositories 📘</h2>
