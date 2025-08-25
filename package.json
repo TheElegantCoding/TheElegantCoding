@@ -33,7 +33,7 @@
     "preinstall": "npx only-allow pnpm",
     "postinstall": "git config core.hooksPath ./script/git_hook",
     "compress": "npx svgo -f ./src/global/asset/illustration -o ./src/global/asset/illustration",
-    "build": "pnpm compress & node ./src/index.js"
+    "build": "node ./src/index.js"
   },
   "devDependencies": {
     "svgo": "^3.0.2"
