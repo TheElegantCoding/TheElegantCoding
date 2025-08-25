@@ -6,49 +6,49 @@
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="./src/global/asset/illustration/typescript.svg"
+    width="90px"
+    alt="typescript"   
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
-  <img 
-    src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
-    alt="typescript"   
-  />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"

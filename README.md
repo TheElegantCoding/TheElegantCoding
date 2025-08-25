@@ -100,49 +100,49 @@ management, and User Interface Design 🎨. I have an ease for teamwork and am a
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="./src/global/asset/illustration/typescript.svg"
+    width="90px"
+    alt="typescript"   
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
-  <img 
-    src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
-    alt="typescript"   
-  />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
     width="90px"
