@@ -3,55 +3,47 @@
 <p align="center">
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="96px"
+    width="128px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/javascript.svg"
-    width="96px"
+    width="128px"
     alt="javascript"   
   />
-  &nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="96px"
+    width="128px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
   <img
     src="./src/global/asset/illustration/typescript.svg"
-    width="96px"
+    width="128px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="96px"
+    width="128px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="96px"
+    width="128px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="96px"
+    width="128px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="96px"
+    width="128px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="96px"
+    width="128px"
     alt="typescript"   
   />
 </p>
