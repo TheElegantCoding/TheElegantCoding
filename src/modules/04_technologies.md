@@ -3,55 +3,55 @@
 <p align="center">
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
+    width="96px"
     alt="typescript"   
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
+    width="96px"
     alt="typescript"   
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
+    width="96px"
     alt="typescript"   
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
+    width="96px"
     alt="typescript"   
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
+    width="96px"
     alt="typescript"   
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
+    width="96px"
     alt="typescript"   
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
+    width="96px"
     alt="typescript"   
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
+    width="96px"
     alt="typescript"   
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="90px"
+    width="96px"
     alt="typescript"   
   />
 </p>
