@@ -102,9 +102,9 @@ management, and User Interface Design 🎨. I have an ease for teamwork and am a
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
+    src="./src/global/asset/illustration/javascript.svg"
     width="96px"
-    alt="typescript"   
+    alt="javascript"   
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
