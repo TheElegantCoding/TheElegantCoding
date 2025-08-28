@@ -100,36 +100,43 @@ management, and User Interface Design 🎨. I have an ease for teamwork and am a
     width="96px"
     alt="typescript"   
   />
+  &nbsp;
   <img 
     src="./src/global/asset/illustration/javascript.svg"
     width="96px"
     alt="javascript"   
   />
+  &nbsp;
   <img 
     src="./src/global/asset/illustration/dart.svg"
     width="96px"
     alt="dart"   
   />
+  &nbsp;
   <img
     src="./src/global/asset/illustration/rust.svg"
     width="96px"
     alt="rust"   
   />
+  &nbsp;
   <img 
     src="./src/global/asset/illustration/lua.svg"
     width="96px"
     alt="lua"   
   />
+  &nbsp;
   <img 
     src="./src/global/asset/illustration/c++.svg"
     width="96px"
     alt="c++"   
   />
+  &nbsp;
   <img 
     src="./src/global/asset/illustration/csharp.svg"
     width="96px"
     alt="c#"   
   />
+  &nbsp;
   <img 
     src="./src/global/asset/illustration/csharp.svg"
     width="96px"
