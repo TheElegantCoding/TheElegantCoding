@@ -3,47 +3,42 @@
 <p align="center">
   <img 
     src="./src/global/asset/illustration/typescript.svg"
-    width="128px"
+    width="96px"
     alt="typescript"   
   />
   <img 
     src="./src/global/asset/illustration/javascript.svg"
-    width="128px"
+    width="96px"
     alt="javascript"   
   />
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
-    width="128px"
-    alt="typescript"   
+    src="./src/global/asset/illustration/dart.svg"
+    width="96px"
+    alt="dart"   
   />
   <img
-    src="./src/global/asset/illustration/typescript.svg"
-    width="128px"
-    alt="typescript"   
+    src="./src/global/asset/illustration/rust.svg"
+    width="96px"
+    alt="rust"   
   />
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
-    width="128px"
-    alt="typescript"   
+    src="./src/global/asset/illustration/lua.svg"
+    width="96px"
+    alt="lua"   
   />
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
-    width="128px"
-    alt="typescript"   
+    src="./src/global/asset/illustration/c++.svg"
+    width="96px"
+    alt="c++"   
   />
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
-    width="128px"
-    alt="typescript"   
+    src="./src/global/asset/illustration/csharp.svg"
+    width="96px"
+    alt="c#"   
   />
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
-    width="128px"
-    alt="typescript"   
-  />
-  <img 
-    src="./src/global/asset/illustration/typescript.svg"
-    width="128px"
-    alt="typescript"   
+    src="./src/global/asset/illustration/csharp.svg"
+    width="96px"
+    alt="c#"   
   />
 </p>

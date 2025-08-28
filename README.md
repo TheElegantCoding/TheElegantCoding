@@ -87,7 +87,7 @@ management, and User Interface Design 🎨. I have an ease for teamwork and am a
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     alt="Code gif" 
-    src="./../global/asset/image/anime_terminal.jpg" 
+    src="./src/global/asset/image/anime_terminal.jpg" 
     width="35%" 
     align="center"
     style="border"
@@ -100,53 +100,40 @@ management, and User Interface Design 🎨. I have an ease for teamwork and am a
     width="96px"
     alt="typescript"   
   />
-  &nbsp;&nbsp;
   <img 
     src="./src/global/asset/illustration/javascript.svg"
     width="96px"
     alt="javascript"   
   />
-  &nbsp;&nbsp;
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
+    src="./src/global/asset/illustration/dart.svg"
     width="96px"
-    alt="typescript"   
+    alt="dart"   
   />
-  &nbsp;&nbsp;
   <img
-    src="./src/global/asset/illustration/typescript.svg"
+    src="./src/global/asset/illustration/rust.svg"
     width="96px"
-    alt="typescript"   
+    alt="rust"   
   />
-  &nbsp;&nbsp;
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
+    src="./src/global/asset/illustration/lua.svg"
     width="96px"
-    alt="typescript"   
+    alt="lua"   
   />
-  &nbsp;&nbsp;
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
+    src="./src/global/asset/illustration/c++.svg"
     width="96px"
-    alt="typescript"   
+    alt="c++"   
   />
-  &nbsp;&nbsp;
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
+    src="./src/global/asset/illustration/csharp.svg"
     width="96px"
-    alt="typescript"   
+    alt="c#"   
   />
-  &nbsp;&nbsp;
   <img 
-    src="./src/global/asset/illustration/typescript.svg"
+    src="./src/global/asset/illustration/csharp.svg"
     width="96px"
-    alt="typescript"   
-  />
-  &nbsp;&nbsp;
-  <img 
-    src="./src/global/asset/illustration/typescript.svg"
-    width="96px"
-    alt="typescript"   
+    alt="c#"   
   />
 </p><br /><h2 align="center">📘 My favorites repositories 📘</h2>
 

@@ -30,7 +30,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     alt="Code gif" 
-    src="./../global/asset/image/anime_terminal.jpg" 
+    src="./src/global/asset/image/anime_terminal.jpg" 
     width="35%" 
     align="center"
     style="border"
