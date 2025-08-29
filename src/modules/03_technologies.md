@@ -11,7 +11,6 @@
     <img src="./src/global/asset/illustration/lua.svg" width="96px" alt="lua" />
     <img src="./src/global/asset/illustration/c++.svg" width="96px" alt="c++" />
     <img src="./src/global/asset/illustration/csharp.svg" width="96px" alt="c#" />
-    <img src="./src/global/asset/illustration/csharp.svg" width="96px" alt="c#" />
   </details>
   <details>
     <summary>Frontend</summary>

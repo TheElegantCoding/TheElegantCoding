@@ -5,7 +5,15 @@
   align="center"
 />
 
-<h1 align="center">🚀 Luis's Profile</h1>
+<h1 align="center">
+  <img 
+    src="./src/global/asset/gif/github.gif" 
+    alt="github" 
+    width="32px" 
+    align="center"
+  />
+  Luis's Profile
+</h1>
 
 <br />
 

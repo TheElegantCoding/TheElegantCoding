@@ -5,7 +5,15 @@
   align="center"
 />
 
-<h1 align="center">🚀 Luis's Profile</h1>
+<h1 align="center">
+  <img 
+    src="./src/global/asset/gif/github.gif" 
+    alt="github" 
+    width="32px" 
+    align="center"
+  />
+  Luis's Profile
+</h1>
 
 <br />
 
@@ -55,44 +63,7 @@
 
 I am an innovative programmer and entrepreneur, specializing in creating accessible and dynamic web 
 applications. I am a Fullstack Developer with expertise in different data structures, database 
-management, and User Interface Design 🎨. I have an ease for teamwork and am always ready to work! ☕.<br /><div align="center">
-  <a href="https://github.com/TheElegantCoding">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=TheElegantCoding&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true" 
-      alt="Github stats"
-      align="center"
-      width="60%"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TheElegantCoding">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheElegantCoding&layout=compact&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true&langs_count=10" 
-      alt="Github donut"  
-      width="35%" 
-      align="center"
-    />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TheElegantCoding&bg_color=151B23&theme=github-compact&area_color=3059E4&title_color=151B23&radius=32&area=true&line=3059E4&point=F3F4F6" 
-    alt="Github stats"
-    align="center"
-    width="60%"
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    alt="Code gif" 
-    src="./src/global/asset/image/anime_terminal.jpg" 
-    width="35%" 
-    align="center"
-    style="border"
-  />
-</div><br /><details>
+management, and User Interface Design 🎨. I have an ease for teamwork and am always ready to work! ☕.<br /><details>
   <summary>🛠️ Technologies and tools i use</summary>
   <br />
   <details>
@@ -104,7 +75,6 @@ management, and User Interface Design 🎨. I have an ease for teamwork and am a
     <img src="./src/global/asset/illustration/rust.svg" width="96px" alt="rust" />
     <img src="./src/global/asset/illustration/lua.svg" width="96px" alt="lua" />
     <img src="./src/global/asset/illustration/c++.svg" width="96px" alt="c++" />
-    <img src="./src/global/asset/illustration/csharp.svg" width="96px" alt="c#" />
     <img src="./src/global/asset/illustration/csharp.svg" width="96px" alt="c#" />
   </details>
   <details>
@@ -221,7 +191,44 @@ management, and User Interface Design 🎨. I have an ease for teamwork and am a
     <img src="./src/global/asset/illustration/husky.svg" width="96px" alt="husky" />
     <img src="./src/global/asset/illustration/postman.svg" width="96px" alt="postman" />
   </details>
-</details><br /><h2 align="center">📘 My favorites repositories 📘</h2>
+</details><br /><div align="center">
+  <a href="https://github.com/TheElegantCoding">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=TheElegantCoding&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true" 
+      alt="Github stats"
+      align="center"
+      width="60%"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TheElegantCoding">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheElegantCoding&layout=compact&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true&langs_count=10" 
+      alt="Github donut"  
+      width="35%" 
+      align="center"
+    />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TheElegantCoding&bg_color=151B23&theme=github-compact&area_color=3059E4&title_color=151B23&radius=32&area=true&line=3059E4&point=F3F4F6" 
+    alt="Github stats"
+    align="center"
+    width="60%"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    alt="Code gif" 
+    src="./src/global/asset/image/anime_terminal.jpg" 
+    width="35%" 
+    align="center"
+    style="border"
+  />
+</div><br /><h2 align="center">📘 My favorites repositories 📘</h2>
 
 <p align="center">
   <a href="https://github.com/AesthetiCoder">
