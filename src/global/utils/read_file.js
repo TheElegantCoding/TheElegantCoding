@@ -21,7 +21,7 @@ const readFile = (templatePath) =>
   });
 
   const writePath = path.join(process.cwd());
-  fs.writeFileSync(`${writePath}/README.md`, contentToMerge.join('<br />'), 'utf8');
+  fs.writeFileSync(`${writePath}/README.md`, contentToMerge.join(''), 'utf8');
 };
 
 module.exports = { readFile };

@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="center" id="repositories">
   <img 
     align="center" 
     src="./../global/asset/gif/terminal.gif"
@@ -7,8 +7,6 @@
   />
   My favorites repositories
 </h2>
-
-
 
 <table align="center" border="0">
   <tr>
@@ -84,3 +82,10 @@
     </td>
   </tr>
 </table>
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+>

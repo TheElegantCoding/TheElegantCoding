@@ -243,3 +243,10 @@
     <img src="./src/global/asset/illustration/postman.svg" width="96px" alt="postman" />
   </details>
 </details>
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+/>

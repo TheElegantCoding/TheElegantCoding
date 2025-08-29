@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="center" id="about">
   <img src="./src/global/asset/gif/coffee.gif" width="32px" align="center" /> 
   About me
 </h2>

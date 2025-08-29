@@ -25,7 +25,7 @@
 />
 
 <pre align="center">
-  <a href="#instalation">📦 SETUP</a> • <a href="#configuration">⚙️ CONFIGURATION</a> • <a href="#features">️️️🛰️ FEATURES</a>
+  <a href="#about">📦 ABOUT</a> • <a href="#stats">📈 STATS</a> • <a href="#repositories">️️️📘 REPOSITORIES</a>
 </pre>
 
 <img 
@@ -33,22 +33,4 @@
   alt="divider" 
   width="100%" 
   align="center"
-/>
-
-<!-- 
-
-<div align="center">
-  <img 
-    alt="Profile views" 
-    src="https://komarev.com/ghpvc/?username=AesthetiCoder&style=for-the-badge" 
-  />
-</div>
-
-<div align="center">
-  <img 
-    alt="Typing description" 
-    src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." 
-  />
-</div>
-
--->
+>
