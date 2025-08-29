@@ -3,7 +3,7 @@
     <img 
       alt="code" 
       src="./src/global/asset/gif/code.gif" 
-      width="20px"
+      width="28px"
       align="center"
     />
     <strong>
@@ -16,7 +16,7 @@
       <img 
         alt="code" 
         src="./src/global/asset/icon/code.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>Languages</strong>
@@ -35,7 +35,7 @@
       <img 
         alt="frontend" 
         src="./src/global/asset/icon/frontend.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>Frontend</strong>
@@ -73,7 +73,7 @@
       <img 
         alt="backend" 
         src="./src/global/asset/icon/backend.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -97,7 +97,7 @@
       <img 
         alt="backend" 
         src="./src/global/asset/icon/database.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -116,7 +116,7 @@
       <img 
         alt="backend" 
         src="./src/global/asset/icon/aws.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -134,7 +134,7 @@
       <img 
         alt="backend" 
         src="./src/global/asset/icon/app.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -151,7 +151,7 @@
       <img 
         alt="backend" 
         src="./src/global/asset/icon/linter.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -170,7 +170,7 @@
       <img 
         alt="backend" 
         src="./src/global/asset/icon/package.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -188,7 +188,7 @@
       <img 
         alt="backend" 
         src="./src/global/asset/icon/template.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -205,7 +205,7 @@
       <img 
         alt="backend" 
         src="./src/global/asset/icon/terminal.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -226,7 +226,7 @@
       <img 
         alt="backend" 
         src="./src/global/asset/icon/other.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>

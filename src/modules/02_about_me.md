@@ -1,7 +1,9 @@
-<h1 align="center">
+<h2 align="center">
   <img src="./src/global/asset/gif/coffee.gif" width="32px" align="center" /> 
   About me
-</h1>
+</h2>
+
+<br />
 
 💻 Professional Software Engineer
 
