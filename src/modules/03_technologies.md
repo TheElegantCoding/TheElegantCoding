@@ -1,8 +1,26 @@
 <details>
-  <summary>🛠️ Technologies and tools i use</summary>
+  <summary>
+    <img 
+      alt="code" 
+      src="./../global/asset/gif/code.gif" 
+      width="20px"
+      align="center"
+    />
+    <strong>
+      Technologies and tools i use
+    </strong>
+  </summary>
   <br />
   <details>
-    <summary>Languages</summary>
+    <summary>
+      <img 
+        alt="code" 
+        src="./../global/asset/icon/code.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>Languages</strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/typescript.svg" width="96px" alt="typescript" />
     <img src="./src/global/asset/illustration/javascript.svg" width="96px" alt="javascript" />
@@ -13,7 +31,15 @@
     <img src="./src/global/asset/illustration/csharp.svg" width="96px" alt="c#" />
   </details>
   <details>
-    <summary>Frontend</summary>
+    <summary>
+      <img 
+        alt="frontend" 
+        src="./../global/asset/icon/frontend.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>Frontend</strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/astro.svg" width="96px" alt="astro" />
     <img src="./src/global/asset/illustration/react.svg" width="96px" alt="react" />
@@ -43,7 +69,17 @@
     <img src="./src/global/asset/illustration/playwright.svg" width="96px" alt="playwright" />
   </details>
   <details>
-    <summary>Backend</summary>
+    <summary>
+      <img 
+        alt="backend" 
+        src="./../global/asset/icon/backend.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>
+        Backend
+      </strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/nest.svg" width="96px" alt="nest" />
     <img src="./src/global/asset/illustration/express.svg" width="96px" alt="express" />
@@ -57,7 +93,17 @@
     <img src="./src/global/asset/illustration/jwt.svg" width="96px" alt="jwt" />
   </details>
   <details>
-    <summary>Database</summary>
+    <summary>
+      <img 
+        alt="backend" 
+        src="./../global/asset/icon/database.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>
+        Database
+      </strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/postgress.svg" width="96px" alt="postgress" />
     <img src="./src/global/asset/illustration/mysql.svg" width="96px" alt="mysql" />
@@ -66,7 +112,17 @@
     <img src="./src/global/asset/illustration/mongo.svg" width="96px" alt="mongo" />
   </details>
   <details>
-    <summary>Aws</summary>
+    <summary>
+      <img 
+        alt="backend" 
+        src="./../global/asset/icon/aws.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>
+        Aws
+      </strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/aws.svg" width="96px" alt="aws" />
     <img src="./src/global/asset/illustration/amplify.svg" width="96px" alt="amplify" />
@@ -74,14 +130,34 @@
     <img src="./src/global/asset/illustration/cloudfront.svg" width="96px" alt="cloudfront" />
   </details>
   <details>
-    <summary>App developer</summary>
+    <summary>
+      <img 
+        alt="backend" 
+        src="./../global/asset/icon/app.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>
+        App developer
+      </strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/react_native.svg" width="96px" alt="react native" />
     <img src="./src/global/asset/illustration/expo.svg" width="96px" alt="expo" />
     <img src="./src/global/asset/illustration/flutter.svg" width="96px" alt="flutter" />
   </details>
   <details>
-    <summary>Linter</summary>
+    <summary>
+      <img 
+        alt="backend" 
+        src="./../global/asset/icon/linter.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>
+        Linter
+      </strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/eslint.svg" width="96px" alt="eslint" />
     <img src="./src/global/asset/illustration/oxlint.svg" width="96px" alt="oxlint" />
@@ -90,7 +166,17 @@
     <img src="./src/global/asset/illustration/prettier.svg" width="96px" alt="prettier" />
   </details>
   <details>
-    <summary>Package manager</summary>
+    <summary>
+      <img 
+        alt="backend" 
+        src="./../global/asset/icon/package.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>
+        Package manager
+      </strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/bun.svg" width="96px" alt="bun" />
     <img src="./src/global/asset/illustration/pnpm.svg" width="96px" alt="pnpm" />
@@ -98,14 +184,34 @@
     <img src="./src/global/asset/illustration/npm.svg" width="96px" alt="npm" />
   </details>
   <details>
-    <summary>Template</summary>
+    <summary>
+      <img 
+        alt="backend" 
+        src="./../global/asset/icon/template.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>
+        Template
+      </strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/markdown.svg" width="96px" alt="markdown" />
     <img src="./src/global/asset/illustration/latex.svg" width="96px" alt="latex" />
     <img src="./src/global/asset/illustration/mjml.svg" width="96px" alt="mjml" />
   </details>
   <details>
-    <summary>Editor, terminal and more</summary>
+    <summary>
+      <img 
+        alt="backend" 
+        src="./../global/asset/icon/terminal.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>
+        Editor, terminal and more
+      </strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/vscode.svg" width="96px" alt="vscode" />
     <img src="./src/global/asset/illustration/neovim.svg" width="96px" alt="neovim" />
@@ -116,7 +222,17 @@
     <img src="./src/global/asset/illustration/starship.svg" width="96px" alt="starship" />
   </details>
   <details>
-    <summary>Other tools</summary>
+    <summary>
+      <img 
+        alt="backend" 
+        src="./../global/asset/icon/other.svg" 
+        width="20px"
+        align="center"
+      />
+      <strong>
+        Other tools
+      </strong>
+    </summary>
     <br />
     <img src="./src/global/asset/illustration/git.svg" width="96px" alt="git" />
     <img src="./src/global/asset/illustration/github.svg" width="96px" alt="github" />

@@ -9,7 +9,7 @@
   <img 
     src="./src/global/asset/gif/github.gif" 
     alt="github" 
-    width="32px" 
+    width="44px" 
     align="center"
   />
   Luis's Profile
