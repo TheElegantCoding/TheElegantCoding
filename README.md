@@ -51,10 +51,12 @@
   />
 </div>
 
---><br /><h1 align="center">
+--><br /><h2 align="center">
   <img src="./src/global/asset/gif/coffee.gif" width="32px" align="center" /> 
   About me
-</h1>
+</h2>
+
+<br />
 
 💻 Professional Software Engineer
 
@@ -65,7 +67,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <img 
       alt="code" 
       src="./src/global/asset/gif/code.gif" 
-      width="20px"
+      width="28px"
       align="center"
     />
     <strong>
@@ -78,7 +80,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="code" 
         src="./src/global/asset/icon/code.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>Languages</strong>
@@ -97,7 +99,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="frontend" 
         src="./src/global/asset/icon/frontend.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>Frontend</strong>
@@ -135,7 +137,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/backend.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -159,7 +161,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/database.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -178,7 +180,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/aws.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -196,7 +198,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/app.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -213,7 +215,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/linter.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -232,7 +234,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/package.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -250,7 +252,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/template.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -267,7 +269,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/terminal.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -288,7 +290,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/other.svg" 
-        width="20px"
+        width="28px"
         align="center"
       />
       <strong>
@@ -341,23 +343,93 @@ management, and User Interface Design. I have an ease for teamwork and am always
     align="center"
     style="border"
   />
-</div><br /><h2 align="center">📘 My favorites repositories 📘</h2>
+</div><br /><h2 align="center">
+  <img 
+    align="center" 
+    src="./../global/asset/gif/terminal.gif"
+    alt="Personal repo" 
+    width="40px"
+  />
+  My favorites repositories
+</h2>
 
-<p align="center">
-  <a href="https://github.com/AesthetiCoder">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AesthetiCoder&repo=AesthetiCoder&theme=github_dark"
-      alt="Personal repo" 
-    />
-  </a>
-  <a href="https://github.com/AesthetiCoder">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AesthetiCoder&repo=.dotfiles&theme=github_dark" alt="My dotfiles" 
-    />
-  </a>
-</p><br /><div align="center">
+
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="40%">
+      <img 
+        align="center" 
+        src="./../global/asset/image/astro_template_webpage.png"
+        width="100%"
+        alt="Astro webpage" 
+      />
+      <br /><br />
+      <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=astro_template_webpage"
+        alt="Personal repo" 
+        width="100%"
+      />
+    </td>
+    <td align="center" width="40%">
+      <img 
+        align="center" 
+        src="./../global/asset/image/eslint.png"
+        width="100%"
+        alt="Astro webpage" 
+      />
+      <br /><br />
+      <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=eslint-config-elegant-coding"
+        alt="Personal repo" 
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="40%">
+      <br />
+    </td>
+    <td align="center" width="40%">
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="40%">
+      <img 
+        align="center" 
+        src="./../global/asset/image/stylelint.png"
+        width="100%"
+        alt="Astro webpage" 
+      />
+      <br /><br />
+      <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=stylelint-config-elegant-coding"
+        alt="Personal repo" 
+        width="100%"
+      />
+    </td>
+    <td align="center" width="40%">
+      <img 
+        align="center" 
+        src="./../global/asset/image/elegant_theme.png"
+        width="100%"
+        alt="Astro webpage" 
+      />
+      <br /><br />
+      <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=elegant_theme"
+        alt="Personal repo" 
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+<br /><div align="center">
   <img 
     align="center" 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"
