@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./src/global/asset/gif/coffee.gif" width="44px" align="center" /> 
+  <img src="./src/global/asset/gif/coffee.gif" width="32px" align="center" /> 
   About me
 </h1>
 

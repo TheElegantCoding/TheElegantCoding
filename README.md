@@ -52,7 +52,7 @@
 </div>
 
 --><br /><h1 align="center">
-  <img src="./src/global/asset/gif/coffee.gif" width="44px" align="center" /> 
+  <img src="./src/global/asset/gif/coffee.gif" width="32px" align="center" /> 
   About me
 </h1>
 
@@ -64,7 +64,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
   <summary>
     <img 
       alt="code" 
-      src="./../global/asset/gif/code.gif" 
+      src="./src/global/asset/gif/code.gif" 
       width="20px"
       align="center"
     />
@@ -77,7 +77,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="code" 
-        src="./../global/asset/icon/code.svg" 
+        src="./src/global/asset/icon/code.svg" 
         width="20px"
         align="center"
       />
@@ -96,7 +96,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="frontend" 
-        src="./../global/asset/icon/frontend.svg" 
+        src="./src/global/asset/icon/frontend.svg" 
         width="20px"
         align="center"
       />
@@ -134,7 +134,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="backend" 
-        src="./../global/asset/icon/backend.svg" 
+        src="./src/global/asset/icon/backend.svg" 
         width="20px"
         align="center"
       />
@@ -158,7 +158,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="backend" 
-        src="./../global/asset/icon/database.svg" 
+        src="./src/global/asset/icon/database.svg" 
         width="20px"
         align="center"
       />
@@ -177,7 +177,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="backend" 
-        src="./../global/asset/icon/aws.svg" 
+        src="./src/global/asset/icon/aws.svg" 
         width="20px"
         align="center"
       />
@@ -195,7 +195,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="backend" 
-        src="./../global/asset/icon/app.svg" 
+        src="./src/global/asset/icon/app.svg" 
         width="20px"
         align="center"
       />
@@ -212,7 +212,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="backend" 
-        src="./../global/asset/icon/linter.svg" 
+        src="./src/global/asset/icon/linter.svg" 
         width="20px"
         align="center"
       />
@@ -231,7 +231,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="backend" 
-        src="./../global/asset/icon/package.svg" 
+        src="./src/global/asset/icon/package.svg" 
         width="20px"
         align="center"
       />
@@ -249,7 +249,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="backend" 
-        src="./../global/asset/icon/template.svg" 
+        src="./src/global/asset/icon/template.svg" 
         width="20px"
         align="center"
       />
@@ -266,7 +266,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="backend" 
-        src="./../global/asset/icon/terminal.svg" 
+        src="./src/global/asset/icon/terminal.svg" 
         width="20px"
         align="center"
       />
@@ -287,7 +287,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <summary>
       <img 
         alt="backend" 
-        src="./../global/asset/icon/other.svg" 
+        src="./src/global/asset/icon/other.svg" 
         width="20px"
         align="center"
       />
