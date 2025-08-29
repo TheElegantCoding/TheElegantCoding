@@ -25,7 +25,7 @@
 />
 
 <pre align="center">
-  <a href="#instalation">📦 SETUP</a> • <a href="#configuration">⚙️ CONFIGURATION</a> • <a href="#features">️️️🛰️ FEATURES</a>
+  <a href="#about">📦 ABOUT</a> • <a href="#stats">📈 STATS</a> • <a href="#repositories">️️️📘 REPOSITORIES</a>
 </pre>
 
 <img 
@@ -33,25 +33,7 @@
   alt="divider" 
   width="100%" 
   align="center"
-/>
-
-<!-- 
-
-<div align="center">
-  <img 
-    alt="Profile views" 
-    src="https://komarev.com/ghpvc/?username=AesthetiCoder&style=for-the-badge" 
-  />
-</div>
-
-<div align="center">
-  <img 
-    alt="Typing description" 
-    src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=I'm+a+Full+stack+developer.;I'm+a+DevOps+developer.;I'm+a+UI+%2F+UX+Designer.;I'm+a+Entrepreneur." 
-  />
-</div>
-
---><br /><h2 align="center">
+><h2 align="center" id="about">
   <img src="./src/global/asset/gif/coffee.gif" width="32px" align="center" /> 
   About me
 </h2>
@@ -62,7 +44,7 @@
 
 I am an innovative programmer and entrepreneur, specializing in creating accessible and dynamic web 
 applications. I am a Fullstack Developer with expertise in different data structures, database 
-management, and User Interface Design. I have an ease for teamwork and am always ready to work!<br /><details>
+management, and User Interface Design. I have an ease for teamwork and am always ready to work!<details>
   <summary>
     <img 
       alt="code" 
@@ -306,7 +288,14 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <img src="./src/global/asset/illustration/husky.svg" width="96px" alt="husky" />
     <img src="./src/global/asset/illustration/postman.svg" width="96px" alt="postman" />
   </details>
-</details><br /><div align="center">
+</details>
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+/><div align="center" id="stats">
   <a href="https://github.com/TheElegantCoding">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=TheElegantCoding&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true" 
@@ -343,7 +332,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     align="center"
     style="border"
   />
-</div><br /><h2 align="center">
+</div><h2 align="center" id="repositories">
   <img 
     align="center" 
     src="./../global/asset/gif/terminal.gif"
@@ -352,8 +341,6 @@ management, and User Interface Design. I have an ease for teamwork and am always
   />
   My favorites repositories
 </h2>
-
-
 
 <table align="center" border="0">
   <tr>
@@ -429,10 +416,39 @@ management, and User Interface Design. I have an ease for teamwork and am always
     </td>
   </tr>
 </table>
-<br /><div align="center">
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+>
+<img 
+  src="./src/global/asset/gif/pochita.gif"
+  alt="Pochita"
+  width="80px"
+  align="right" 
+/>
+<br />
+
+<div align="center">
+  <img 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31w5sugn4goqelwzsukvmywcb66a&count=2"
+    alt="Spotify"
+    align="center" 
+    width="25%"
+  />
+  &nbsp;&nbsp;
   <img 
     align="center" 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"
-    alt="Quote" 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quoteColor=F3F4F6&authorColor=F3F4F6&backgroundColor=151B23&symbolColor=3059E4"
+    alt="Quote"
   />
 </div>
+
+<img 
+  align="center" 
+  src="./src/global/asset/illustration/wave_footer.svg"
+  width="100%"
+  alt="Quote" 
+/>

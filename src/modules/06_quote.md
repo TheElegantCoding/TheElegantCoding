@@ -1,6 +1,6 @@
 
 <img 
-  src="./../global/asset/gif/pochita.gif"
+  src="./src/global/asset/gif/pochita.gif"
   alt="Pochita"
   width="80px"
   align="right" 
@@ -24,7 +24,7 @@
 
 <img 
   align="center" 
-  src="./../global/asset/illustration/wave_footer.svg"
+  src="./src/global/asset/illustration/wave_footer.svg"
   width="100%"
   alt="Quote" 
 />
