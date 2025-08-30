@@ -422,7 +422,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
   alt="divider" 
   width="100%" 
   align="center"
->
+/>
 <img 
   src="./src/global/asset/gif/pochita.gif"
   alt="Pochita"
@@ -443,6 +443,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     align="center" 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quoteColor=F3F4F6&authorColor=F3F4F6&backgroundColor=151B23&symbolColor=3059E4"
     alt="Quote"
+    width="70%"
   />
 </div>
 
