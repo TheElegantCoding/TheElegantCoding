@@ -342,7 +342,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
   My favorites repositories
 </h2>
 
-<table align="center" border="0">
+<table align="center" border="0px">
   <tr>
     <td align="center" width="40%">
       <img 
@@ -373,14 +373,6 @@ management, and User Interface Design. I have an ease for teamwork and am always
         alt="Personal repo" 
         width="100%"
       />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="40%">
-      <br />
-    </td>
-    <td align="center" width="40%">
-      <br />
     </td>
   </tr>
   <tr>
@@ -443,7 +435,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     align="center" 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quoteColor=F3F4F6&authorColor=F3F4F6&backgroundColor=151B23&symbolColor=3059E4"
     alt="Quote"
-    width="65%"
+    width="60%"
   />
 </div>
 

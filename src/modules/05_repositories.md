@@ -8,7 +8,7 @@
   My favorites repositories
 </h2>
 
-<table align="center" border="0">
+<table align="center" border="0px">
   <tr>
     <td align="center" width="40%">
       <img 
@@ -39,14 +39,6 @@
         alt="Personal repo" 
         width="100%"
       />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="40%">
-      <br />
-    </td>
-    <td align="center" width="40%">
-      <br />
     </td>
   </tr>
   <tr>
