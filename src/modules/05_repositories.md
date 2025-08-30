@@ -12,7 +12,7 @@
   <img src="./src/global/asset/image/astro_template_webpage.png" alt="Astro webpage" width="45%" />
   <img src="./src/global/asset/image/eslint.png" alt="ESLint" width="45%" />
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=astro_template_webpage" alt="Personal repo" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=eslint-config-elegant-coding" alt="ESLint repo" width="45%" />
