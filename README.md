@@ -335,7 +335,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
 </div><h2 align="center" id="repositories">
   <img 
     align="center" 
-    src="./../global/asset/gif/terminal.gif"
+    src="./src/global/asset/gif/terminal.gif"
     alt="Personal repo" 
     width="40px"
   />
@@ -347,7 +347,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <td align="center" width="40%">
       <img 
         align="center" 
-        src="./../global/asset/image/astro_template_webpage.png"
+        src="./src/global/asset/image/astro_template_webpage.png"
         width="100%"
         alt="Astro webpage" 
       />
@@ -362,7 +362,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <td align="center" width="40%">
       <img 
         align="center" 
-        src="./../global/asset/image/eslint.png"
+        src="./src/global/asset/image/eslint.png"
         width="100%"
         alt="Astro webpage" 
       />
@@ -387,7 +387,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <td align="center" width="40%">
       <img 
         align="center" 
-        src="./../global/asset/image/stylelint.png"
+        src="./src/global/asset/image/stylelint.png"
         width="100%"
         alt="Astro webpage" 
       />
@@ -402,7 +402,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <td align="center" width="40%">
       <img 
         align="center" 
-        src="./../global/asset/image/elegant_theme.png"
+        src="./src/global/asset/image/elegant_theme.png"
         width="100%"
         alt="Astro webpage" 
       />
@@ -443,7 +443,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     align="center" 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quoteColor=F3F4F6&authorColor=F3F4F6&backgroundColor=151B23&symbolColor=3059E4"
     alt="Quote"
-    width="70%"
+    width="65%"
   />
 </div>
 
