@@ -6,7 +6,6 @@
   align="right" 
 />
 <br /><br /><br />
-<br />
 
 <div align="center">
   <img 
@@ -20,7 +19,7 @@
     align="center" 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quoteColor=F3F4F6&authorColor=F3F4F6&backgroundColor=151B23&symbolColor=3059E4"
     alt="Quote"
-    width="65%"
+    width="62%"
   />
 </div>
 
