@@ -33,7 +33,7 @@
   alt="divider" 
   width="100%" 
   align="center"
-><h2 align="center" id="about">
+/><h2 align="center" id="about">
   <img src="./src/global/asset/gif/coffee.gif" width="32px" align="center" /> 
   About me
 </h2>
@@ -332,7 +332,14 @@ management, and User Interface Design. I have an ease for teamwork and am always
     align="center"
     style="border"
   />
-</div><h2 align="center" id="repositories">
+</div>
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+/><h2 align="center" id="repositories">
   <img 
     align="center" 
     src="./src/global/asset/gif/terminal.gif"
@@ -425,7 +432,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
 
 <div align="center">
   <img 
-    src="https://spotify-recently-played-readme.vercel.app/api?user=31w5sugn4goqelwzsukvmywcb66a&count=2"
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31w5sugn4goqelwzsukvmywcb66a&count=3"
     alt="Spotify"
     align="center" 
     width="35%"

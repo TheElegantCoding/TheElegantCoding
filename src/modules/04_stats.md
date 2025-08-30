@@ -36,3 +36,10 @@
     style="border"
   />
 </div>
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+/>

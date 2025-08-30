@@ -9,7 +9,7 @@
 
 <div align="center">
   <img 
-    src="https://spotify-recently-played-readme.vercel.app/api?user=31w5sugn4goqelwzsukvmywcb66a&count=2"
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31w5sugn4goqelwzsukvmywcb66a&count=3"
     alt="Spotify"
     align="center" 
     width="35%"
