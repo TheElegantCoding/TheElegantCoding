@@ -5,7 +5,7 @@
   align="center"
 />
 
-<h1 align="center">
+<h1 align="center" id="top">
   <img 
     src="./src/global/asset/gif/github.gif" 
     alt="github" 
@@ -49,7 +49,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <img 
       alt="code" 
       src="./src/global/asset/gif/code.gif" 
-      width="28px"
+      width="20px"
       align="center"
     />
     <strong>
@@ -62,7 +62,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="code" 
         src="./src/global/asset/icon/code.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>Languages</strong>
@@ -81,7 +81,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="frontend" 
         src="./src/global/asset/icon/frontend.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>Frontend</strong>
@@ -119,7 +119,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/backend.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>
@@ -143,7 +143,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/database.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>
@@ -162,7 +162,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/aws.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>
@@ -180,7 +180,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/app.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>
@@ -197,7 +197,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/linter.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>
@@ -216,7 +216,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/package.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>
@@ -234,7 +234,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/template.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>
@@ -251,7 +251,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/terminal.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>
@@ -272,7 +272,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
       <img 
         alt="backend" 
         src="./src/global/asset/icon/other.svg" 
-        width="28px"
+        width="20px"
         align="center"
       />
       <strong>
@@ -289,6 +289,17 @@ management, and User Interface Design. I have an ease for teamwork and am always
     <img src="./src/global/asset/illustration/postman.svg" width="96px" alt="postman" />
   </details>
 </details>
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+/>
+
+<pre align="center">
+  <a href="#top">BACK TO TOP</a>
+</pre>
 
 <img 
   src="./src/global/asset/illustration/divider.svg" 
@@ -334,6 +345,8 @@ management, and User Interface Design. I have an ease for teamwork and am always
   />
 </div>
 
+<br />
+
 <img 
   src="./src/global/asset/illustration/divider.svg" 
   alt="divider" 
@@ -349,22 +362,24 @@ management, and User Interface Design. I have an ease for teamwork and am always
   My favorites repositories
 </h2>
 
-<p align="left">
-  <img src="./src/global/asset/image/astro_template_webpage.png" alt="Astro webpage" width="45%" align="left" />
-  <img src="./src/global/asset/image/eslint.png" alt="ESLint" width="45%" align="left" />
+<p align="center">
+  <img src="./src/global/asset/image/astro_template_webpage.png" alt="Astro webpage" width="45%" />
+  <img src="./src/global/asset/image/eslint.png" alt="ESLint" width="45%" />
 </p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=astro_template_webpage" alt="Personal repo" width="45%" align="right" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=eslint-config-elegant-coding" alt="ESLint repo" width="45%" align="right" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=astro_template_webpage" alt="Personal repo" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=eslint-config-elegant-coding" alt="ESLint repo" width="45%" />
 </p>
-<p align="left">
-  <img src="./src/global/asset/image/stylelint.png" alt="Stylelint" width="45%" align="left" />
-  <img src="./src/global/asset/image/elegant_theme.png" alt="Elegant theme" width="45%" align="left" />
+<p align="center">
+  <img src="./src/global/asset/image/stylelint.png" alt="Stylelint" width="45%" />
+  <img src="./src/global/asset/image/elegant_theme.png" alt="Elegant theme" width="45%" />
 </p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=stylelint-config-elegant-coding" alt="Stylelint repo" width="45%" align="right" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=elegant_theme" alt="Elegant theme repo" width="45%" align="right" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=stylelint-config-elegant-coding" alt="Stylelint repo" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=elegant_theme" alt="Elegant theme repo" width="45%" />
 </p>
+
+<br />
 
 <img 
   src="./src/global/asset/illustration/divider.svg" 

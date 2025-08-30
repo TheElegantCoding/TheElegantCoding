@@ -37,6 +37,8 @@
   />
 </div>
 
+<br />
+
 <img 
   src="./src/global/asset/illustration/divider.svg" 
   alt="divider" 
