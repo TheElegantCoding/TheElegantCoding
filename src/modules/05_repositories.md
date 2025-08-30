@@ -33,3 +33,14 @@
   width="100%" 
   align="center"
 />
+
+<pre align="center">
+  <a href="#top">BACK TO TOP</a>
+</pre>
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+/>

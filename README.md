@@ -295,17 +295,6 @@ management, and User Interface Design. I have an ease for teamwork and am always
   alt="divider" 
   width="100%" 
   align="center"
-/>
-
-<pre align="center">
-  <a href="#top">BACK TO TOP</a>
-</pre>
-
-<img 
-  src="./src/global/asset/illustration/divider.svg" 
-  alt="divider" 
-  width="100%" 
-  align="center"
 /><div align="center" id="stats">
   <a href="https://github.com/TheElegantCoding">
     <img 
@@ -380,6 +369,17 @@ management, and User Interface Design. I have an ease for teamwork and am always
 </p>
 
 <br />
+
+<img 
+  src="./src/global/asset/illustration/divider.svg" 
+  alt="divider" 
+  width="100%" 
+  align="center"
+/>
+
+<pre align="center">
+  <a href="#top">BACK TO TOP</a>
+</pre>
 
 <img 
   src="./src/global/asset/illustration/divider.svg" 
