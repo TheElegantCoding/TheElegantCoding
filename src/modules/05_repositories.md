@@ -26,12 +26,12 @@
 <br /><br /><br />
 <br /><br />
 
+<!-- 
 <p>
   <img src="./src/global/asset/image/stylelint.png" alt="Stylelint" width="48.5%"  align="left" />
   <img src="./src/global/asset/image/elegant_theme.png" alt="Elegant theme" width="48.5%" align="right" />
   <br />
 </p>
-
 <br /><br /><br />
 <br /><br /><br />
 <br /><br />
@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=elegant_theme" alt="Elegant theme repo" width="48.5%" align="right" />
   <br />
 </p>
-
+-->
 <img 
   src="./src/global/asset/illustration/divider.svg" 
   alt="divider" 
