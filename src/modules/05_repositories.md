@@ -24,7 +24,6 @@
 
 <br /><br /><br />
 <br /><br /><br />
-<br /><br />
 
 <p>
   <img src="./src/global/asset/image/stylelint.png" alt="Stylelint" width="47%"  align="left" />
