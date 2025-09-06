@@ -366,7 +366,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
 </p>
 
 <br /><br /><br />
-<br /><br />
+<br /><br /><br />
 
 <p>
   <img src="./src/global/asset/image/stylelint.png" alt="Stylelint" width="47%"  align="left" />
@@ -376,7 +376,6 @@ management, and User Interface Design. I have an ease for teamwork and am always
 
 <br /><br /><br />
 <br /><br /><br />
-<br /><br />
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=stylelint-config-elegant-coding" alt="Stylelint repo" width="47%"  align="left" />
