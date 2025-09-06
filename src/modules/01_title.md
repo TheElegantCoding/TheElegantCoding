@@ -25,7 +25,7 @@
 />
 
 <pre align="center">
-  <a href="#about">📦 ABOUT</a> • <a href="#stats">📈 STATS</a> • <a href="#repositories">️️️📘 REPOSITORIES</a>
+  <a href="#about">📦 ABOUT</a>   •   <a href="#stats">📈 STATS</a>   •   <a href="#repositories">️️️📘 REPOSITORIES</a>
 </pre>
 
 <img 
