@@ -352,8 +352,8 @@ management, and User Interface Design. I have an ease for teamwork and am always
 </h2>
   
 <p>
-  <img src="./../global/asset/image/astro_template_webpage.png" alt="Astro webpage" width="47%" align="left" />
-  <img src="./../global/asset/image/eslint.png" alt="ESLint" width="47%" align="right" />
+  <img src="./src/global/asset/image/astro_template_webpage.png" alt="Astro webpage" width="47%" align="left" />
+  <img src="./src/global/asset/image/eslint.png" alt="ESLint" width="47%" align="right" />
 </p>
 
 <br /><br /><br />
@@ -368,11 +368,12 @@ management, and User Interface Design. I have an ease for teamwork and am always
 
 <br /><br /><br />
 <br /><br /><br />
-<br /><br />
+<br /><br /><br />
+<br />
 
 <p>
-  <img src="./../global/asset/image/stylelint.png" alt="Stylelint" width="48%"  align="left" />
-  <img src="./../global/asset/image/elegant_theme.png" alt="Elegant theme" width="48%" align="right" />
+  <img src="./src/global/asset/image/stylelint.png" alt="Stylelint" width="48%"  align="left" />
+  <img src="./src/global/asset/image/elegant_theme.png" alt="Elegant theme" width="48%" align="right" />
   <br />
 </p>
 
