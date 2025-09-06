@@ -365,6 +365,9 @@ management, and User Interface Design. I have an ease for teamwork and am always
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=eslint-config-elegant-coding" alt="ESLint repo" width="47%" align="right" />
 </p>
 
+<br /><br /><br />
+<br /><br /><br />
+<br /><br />
 
 <p>
   <img src="./src/global/asset/image/stylelint.png" alt="Stylelint" width="47%"  align="left" />
