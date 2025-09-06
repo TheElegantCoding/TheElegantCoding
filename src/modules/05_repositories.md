@@ -15,8 +15,7 @@
 
 <br /><br /><br />
 <br /><br /><br />
-<br /><br /><br />
-<br />
+<br /><br />
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=astro_template_webpage" alt="Personal repo" width="48%" align="left" />
@@ -25,8 +24,6 @@
 
 <br /><br /><br />
 <br /><br /><br />
-<br /><br /><br />
-<br />
 
 <p>
   <img src="./src/global/asset/image/stylelint.png" alt="Stylelint" width="48%"  align="left" />
