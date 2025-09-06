@@ -43,7 +43,8 @@
 </p>
 
 <br /><br /><br />
-<br /><br />
+<br /><br /><br />
+<br />
 
 <img 
   src="./src/global/asset/illustration/divider.svg" 
