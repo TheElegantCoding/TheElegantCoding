@@ -366,8 +366,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
 </p>
 
 <br /><br /><br />
-<br /><br /><br />
-<br /><br />
+<br />
 
 <!-- 
 <p>
