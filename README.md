@@ -86,7 +86,29 @@ management, and User Interface Design. I have an ease for teamwork and am always
   src="./src/global/asset/illustration/divider.svg" 
   alt="divider" 
   width="100%" 
-/><div align="center">
+/><div align="center" id="stats">
+  <a href="https://github.com/TheElegantCoding">
+    <img 
+      src="https://github-stats-extended.vercel.app/api?username=TheElegantCoding&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true" 
+      alt="Github stats"
+      align="center"
+      width="60%"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TheElegantCoding">
+    <img 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheElegantCoding&layout=compact&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true&langs_count=10" 
+      alt="Github donut"  
+      width="35%" 
+      align="center"
+    />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=TheElegantCoding&bg_color=151B23&theme=github-compact&area_color=3059E4&title_color=151B23&radius=32&area=true&line=3059E4&point=F3F4F6&border_color=3059E4" 
     alt="Github stats"
@@ -112,24 +134,25 @@ management, and User Interface Design. I have an ease for teamwork and am always
   My favorites repositories
 </h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="./src/global/asset/repo/astro_template_webpage.svg" alt="Astro Template Webpage" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="./src/global/asset/repo/astro_inline_css.svg" alt="Astro Inline CSS" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./src/global/asset/repo/gitlys.svg" alt="Gitlys" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="./src/global/asset/repo/eslint_config.svg" alt="ESLint Config" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Fila 1: Astro Projects -->
+  <a href="https://github.com/TheElegantCoding/astro_template_webpage">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=TheElegantCoding&repo=astro_template_webpage&bg_color=151B23&border_color=3059E4&title_color=3059E4&text_color=F3F4F6&icon_color=3059E4&border_radius=15" alt="Astro Template Webpage" width="49%" />
+  </a>
+  <a href="https://github.com/TheElegantCoding/astro-inline-css">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=TheElegantCoding&repo=astro-inline-css&bg_color=151B23&border_color=3059E4&title_color=3059E4&text_color=F3F4F6&icon_color=3059E4&border_radius=15" alt="Astro Inline CSS" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Fila 2: Tools & Config -->
+  <a href="https://github.com/TheElegantCoding/gitlys">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=TheElegantCoding&repo=gitlys&bg_color=151B23&border_color=3059E4&title_color=3059E4&text_color=F3F4F6&icon_color=3059E4&border_radius=15" alt="Gitlys" width="49%" />
+  </a>
+  <a href="https://github.com/TheElegantCoding/eslint-config">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=TheElegantCoding&repo=eslint-config&bg_color=151B23&border_color=3059E4&title_color=3059E4&text_color=F3F4F6&icon_color=3059E4&border_radius=15" alt="ESLint Config" width="49%" />
+  </a>
+</p>
 
 <img 
   src="./src/global/asset/illustration/divider.svg" 
