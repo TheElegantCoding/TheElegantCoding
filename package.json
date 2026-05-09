@@ -1,41 +1,20 @@
 {
-  "name": "luis-profile",
-  "description": "Github profile",
-  "version": "1.0.0",
-  "private": true,
-  "license": "ISC",
-  "author": "Luis Monsalve",
-  "keywords": [
-    "github",
-    "portfolio",
-    "profile",
-    "markdown",
-    "readme",
-    "github-profile-readme",
-    "readme-profile",
-    "readme-template",
-    "typescript",
-    "clean-architecture"
-  ],
-  "bugs": "https://github.com/AesthetiCoder/AesthetiCoder/issues",
-  "homepage": "https://github.com/AesthetiCoder/AesthetiCoder",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AesthetiCoder/AesthetiCoder.git"
-  },
-  "engines": {
-    "node": "^14.18.0 || >=16.0.0",
-    "npm": "please-use-pnpm",
-    "yarn": "please-use-pnpm",
-    "pnpm": ">=7.14.0"
-  },
+  "name": "profile",
+  "version": "0.0.0",
   "scripts": {
-    "preinstall": "npx only-allow pnpm",
-    "postinstall": "git config core.hooksPath ./script/git_hook",
-    "compress": "npx svgo -f ./src/global/asset/illustration -o ./src/global/asset/illustration",
-    "build": "node ./src/index.js"
+    "build": "bun src/index.ts"
   },
   "devDependencies": {
-    "svgo": "^3.0.2"
+    "@resvg/resvg-js": "^2.6.2",
+    "@types/node": "^25.6.2",
+    "html-to-image": "^1.11.13",
+    "node-html-to-image": "^5.0.0",
+    "playwright": "^1.59.1",
+    "satori": "^0.26.0",
+    "satori-html": "^0.3.2",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "node-html-parser": "^7.1.0"
   }
 }
