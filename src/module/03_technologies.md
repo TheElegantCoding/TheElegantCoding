@@ -1,8 +1,8 @@
-<p align="center">
+<p>
   <strong>🚀 Full Tech Stack & Professional Tools</strong>
 </p>
 
-<p align="center">
+<p >
   <!-- Languages -->
   <img src="./src/global/asset/illustration/typescript.svg" width="96px" alt="typescript" />
   <img src="./src/global/asset/illustration/javascript.svg" width="96px" alt="javascript" />
@@ -37,7 +37,6 @@
   <img src="./src/global/asset/illustration/notion.svg" width="96px" alt="notion" />
   <img src="./src/global/asset/illustration/git.svg" width="96px" alt="git" />
   <img src="./src/global/asset/illustration/github.svg" width="96px" alt="github" />
-  <img src="./src/global/asset/illustration/docker.svg" width="96px" alt="docker" />
 </p>
 
 <img 
