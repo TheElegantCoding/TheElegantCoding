@@ -80,7 +80,6 @@ management, and User Interface Design. I have an ease for teamwork and am always
   <img src="./src/global/asset/illustration/notion.svg" width="96px" alt="notion" />
   <img src="./src/global/asset/illustration/git.svg" width="96px" alt="git" />
   <img src="./src/global/asset/illustration/github.svg" width="96px" alt="github" />
-  <img src="./src/global/asset/illustration/docker.svg" width="96px" alt="docker" />
 </p>
 
 <img 
