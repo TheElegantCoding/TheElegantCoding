@@ -5,15 +5,12 @@
   align="center"
 />
 
-<h1 align="center" id="top">
-  <img 
-    src="./src/global/asset/gif/github.gif" 
-    alt="github" 
-    width="44px" 
-    align="center"
-  />
-  Luis's Profile
-</h1>
+<img 
+  src="./src/global/asset/illustration/profile.svg" 
+  alt="profile" 
+  width="100%" 
+  align="center"
+/>
 
 <br />
 
@@ -25,7 +22,7 @@
 />
 
 <pre align="center">
-  <a href="#about">📦 ABOUT</a>   •   <a href="#stats">📈 STATS</a>   •   <a href="#repositories">️️️📘 REPOSITORIES</a>
+  <a href="#about">📦 ABOUT ME</a>  •  <a href="#stats">📈 STATS</a>  •  <a href="#repositories">️️️📘 REPOSITORIES</a>
 </pre>
 
 <img 
@@ -324,14 +321,6 @@ management, and User Interface Design. I have an ease for teamwork and am always
     align="center"
     width="60%"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    alt="Code gif" 
-    src="./src/global/asset/image/anime_terminal.jpg" 
-    width="35%" 
-    align="center"
-    style="border"
-  />
 </div>
 
 <br />
@@ -350,44 +339,18 @@ management, and User Interface Design. I have an ease for teamwork and am always
   />
   My favorites repositories
 </h2>
-  
-<p>
-  <img src="./src/global/asset/image/astro_template_webpage.png" alt="Astro webpage" width="47%" align="left" />
-  <img src="./src/global/asset/image/eslint.png" alt="ESLint" width="47%" align="right" />
+
+<p align="center">
+  <img src="./src/global/asset/repo/astro_template_webpage.svg" alt="Astro Template Webpage" width="47%" align="left" />
+  <img src="./src/global/asset/repo/astro_inline_css.svg" alt="Astro" width="47%" align="right" />
 </p>
-
-<br /><br /><br />
-<br /><br /><br />
-<br /><br /><br />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=astro_template_webpage" alt="Personal repo" width="47%" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=eslint-config-elegant-coding" alt="ESLint repo" width="47%" align="right" />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+<p align="center">
+  <img src="./src/global/asset/repo/gitlys.svg" alt="Astro Inline CSS" width="47%" align="left" />
+  <img src="./src/global/asset/repo/eslint_config.svg" alt="Astro Inline CSS" width="47%" align="right" />
 </p>
-
-<br /><br /><br />
-<br /><br /><br />
-<br /><br />
-
-<p>
-  <img src="./src/global/asset/image/stylelint.png" alt="Stylelint" width="47%"  align="left" />
-  <img src="./src/global/asset/image/elegant_theme.png" alt="Elegant theme" width="47%" align="right" />
-  <br />
-</p>
-
-<br /><br /><br />
-<br /><br /><br />
-<br />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=stylelint-config-elegant-coding" alt="Stylelint repo" width="47%"  align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheElegantCoding&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&repo=elegant_theme" alt="Elegant theme repo" width="47%" align="right" />
-  <br />
-</p>
-
-<br /><br /><br />
-<br /><br /><br />
-<br />
 
 <img 
   src="./src/global/asset/illustration/divider.svg" 
