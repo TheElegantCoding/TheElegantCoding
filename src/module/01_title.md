@@ -5,15 +5,12 @@
   align="center"
 />
 
-<h1 align="center" id="top">
-  <img 
-    src="./src/global/asset/gif/github.gif" 
-    alt="github" 
-    width="44px" 
-    align="center"
-  />
-  Luis's Profile
-</h1>
+<img 
+  src="./src/global/asset/illustration/profile.svg" 
+  alt="profile" 
+  width="100%" 
+  align="center"
+/>
 
 <br />
 
@@ -25,7 +22,7 @@
 />
 
 <pre align="center">
-  <a href="#about">📦 ABOUT</a>   •   <a href="#stats">📈 STATS</a>   •   <a href="#repositories">️️️📘 REPOSITORIES</a>
+  <a href="#about">📦 ABOUT ME</a>  •  <a href="#stats">📈 STATS</a>  •  <a href="#repositories">️️️📘 REPOSITORIES</a>
 </pre>
 
 <img 

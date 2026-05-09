@@ -27,14 +27,6 @@
     align="center"
     width="60%"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    alt="Code gif" 
-    src="./src/global/asset/image/anime_terminal.jpg" 
-    width="35%" 
-    align="center"
-    style="border"
-  />
 </div>
 
 <br />
