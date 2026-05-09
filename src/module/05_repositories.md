@@ -8,7 +8,7 @@
   My favorites repositories
 </h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="./src/global/asset/repo/astro_template_webpage.svg" alt="Astro Template Webpage" width="100%" />
