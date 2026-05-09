@@ -37,7 +37,7 @@
 
 <br />
 
-<img src="./src/global/asset/gif/pc.gif" width="32px" align="center" /> $\textbf{\huge{Professional Software Engineer}}$
+<img src="./src/global/asset/gif/pc.gif" width="32px" align="center" />Professional Software Engineer
 
 I am an innovative programmer and entrepreneur, specializing in creating accessible and dynamic web 
 applications. I am a Fullstack Developer with expertise in different data structures, database 
@@ -340,17 +340,31 @@ management, and User Interface Design. I have an ease for teamwork and am always
   My favorites repositories
 </h2>
 
-<p align="center">
-  <img src="./src/global/asset/repo/astro_template_webpage.svg" alt="Astro Template Webpage" width="47%" align="left" />
-  <img src="./src/global/asset/repo/astro_inline_css.svg" alt="Astro" width="47%" align="right" />
-</p>
-<br /><br /><br /><br />
-<br /><br /><br /><br />
-<br /><br /><br /><br />
-<p align="center">
-  <img src="./src/global/asset/repo/gitlys.svg" alt="Astro Inline CSS" width="47%" align="left" />
-  <img src="./src/global/asset/repo/eslint_config.svg" alt="Astro Inline CSS" width="47%" align="right" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="./src/global/asset/repo/astro_template_webpage.svg" alt="Astro Template Webpage" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <img src="./src/global/asset/repo/astro_inline_css.svg" alt="Astro Inline CSS" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <img src="./src/global/asset/repo/gitlys.svg" alt="Gitlys" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./src/global/asset/repo/eslint_config.svg" alt="ESLint Config" width="100%" />
+    </td>
+    <td align="center" width="33%"><!-- Espacio para Repo 5 --></td>
+    <td align="center" width="33%"><!-- Espacio para Repo 6 --></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><!-- Espacio para Repo 7 --></td>
+    <td align="center" width="33%"><!-- Espacio para Repo 8 --></td>
+    <td align="center" width="33%"><!-- Espacio para Repo 9 --></td>
+  </tr>
+</table>
 
 <img 
   src="./src/global/asset/illustration/divider.svg" 
