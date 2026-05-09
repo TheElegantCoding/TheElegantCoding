@@ -10,27 +10,20 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="./src/global/asset/repo/astro_template_webpage.svg" alt="Astro Template Webpage" width="100%" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="./src/global/asset/repo/astro_inline_css.svg" alt="Astro Inline CSS" width="100%" />
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <img src="./src/global/asset/repo/gitlys.svg" alt="Gitlys" width="100%" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="./src/global/asset/repo/eslint_config.svg" alt="ESLint Config" width="100%" />
     </td>
-    <td align="center" width="33%"><!-- Espacio para Repo 5 --></td>
-    <td align="center" width="33%"><!-- Espacio para Repo 6 --></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><!-- Espacio para Repo 7 --></td>
-    <td align="center" width="33%"><!-- Espacio para Repo 8 --></td>
-    <td align="center" width="33%"><!-- Espacio para Repo 9 --></td>
   </tr>
 </table>
 
