@@ -41,11 +41,11 @@
 
 I am an innovative programmer and entrepreneur, specializing in creating accessible and dynamic web 
 applications. I am a Fullstack Developer with expertise in different data structures, database 
-management, and User Interface Design. I have an ease for teamwork and am always ready to work!<p align="center">
+management, and User Interface Design. I have an ease for teamwork and am always ready to work!<p>
   <strong>🚀 Full Tech Stack & Professional Tools</strong>
 </p>
 
-<p align="center">
+<p >
   <!-- Languages -->
   <img src="./src/global/asset/illustration/typescript.svg" width="96px" alt="typescript" />
   <img src="./src/global/asset/illustration/javascript.svg" width="96px" alt="javascript" />
@@ -86,34 +86,12 @@ management, and User Interface Design. I have an ease for teamwork and am always
   src="./src/global/asset/illustration/divider.svg" 
   alt="divider" 
   width="100%" 
-/><div align="center" id="stats">
-  <a href="https://github.com/TheElegantCoding">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=TheElegantCoding&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true" 
-      alt="Github stats"
-      align="center"
-      width="60%"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TheElegantCoding">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheElegantCoding&layout=compact&rank_icon=github&border_color=3059E4&bg_color=151B23&text_color=F3F4F6&border_radius=16&include_all_commits=true&show_icons=true&langs_count=10" 
-      alt="Github donut"  
-      width="35%" 
-      align="center"
-    />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
+/><div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=TheElegantCoding&bg_color=151B23&theme=github-compact&area_color=3059E4&title_color=151B23&radius=32&area=true&line=3059E4&point=F3F4F6&border_color=3059E4" 
     alt="Github stats"
     align="center"
-    width="60%"
+    width="100%"
   />
 </div>
 
@@ -134,7 +112,7 @@ management, and User Interface Design. I have an ease for teamwork and am always
   My favorites repositories
 </h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="./src/global/asset/repo/astro_template_webpage.svg" alt="Astro Template Webpage" width="100%" />
